@@ -1,0 +1,16 @@
+input:focus {
+  background:0 !important;
+}
+.pass input:focus {
+  border: 0 !important;
+  outline: none !important;
+}
+[type="text"]:focus{
+  background-color: 0 !important;
+}
+.ant-input {
+  color:#fff !important;
+}
+.ant-input-password {
+  background-color: transparent !important;
+}
