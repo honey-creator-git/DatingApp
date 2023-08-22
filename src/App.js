@@ -1,161 +1,307 @@
-import React from "react";
-import logo from "./logo.svg";
-import "./App.css";
-import { Route, Routes } from "react-router-dom";
-import Home from "./Home";
+import React from 'react';
+import './App.css';
+import './assets/css/custom.css'
+import { Route, Routes, Navigate } from 'react-router-dom';
 
-import Ragistration from "./Loginscreens/Ragistration";
-import Forgotpassword from "./Loginscreens/Forgotpassword";
-import Otpmobile from "./Loginscreens/Otpmobile";
-import Otpemail from "./Loginscreens/Otpemail";
-import Completed from "./Loginscreens/Completed";
-import Idtypes from "./Verifyid/Idtypes";
-import Review from "./Verifyid/Reviews";
-import Reviews from "./Verifyid/Reviews";
-import Salect from "./Verifyid/Salect";
-import Emails from "./Verifyid/Emails";
-import Options from "./Verifyid/Options";
-import Reviewss from "./Verifyid/Reviewss";
-import Coupancode from "./Verifyid/Coupancode";
-import Entercode from "./Verifyid/Entercode";
-import Via from "./Verifyid/Via";
-import Idfront from "./Verifyid/Idfront";
-import Idback from "./Verifyid/Idback";
-import Idverify from "./Verifyid/Idverify";
-import Face from "./Verifyid/Face";
-import Verified from "./Verifyid/Verified";
-import Newmaxico from "./Verifyid/Newmaxico";
-import Idverified from "./Verifyid/Idverified";
-import Background from "./Verifyid/Background";
-import Process from "./Verifyid/Process";
-import Communityprofile from "./pages/Communityprofile";
-import Catogaries from "./pages/Catogaries";
-import Prefrence from "./pages/Prefrence";
-import Searcgresult from "./pages/Searcgresult";
-import Qrcode from "./pages/Qrcode";
-import Sugar from "./pages/Sugar";
-import Aboutme from "./pages/Aboutme";
-import Gallary from "./pages/Gallary";
-import History from "./pages/History";
-import Rates from "./pages/Rates";
-import Calender from "./pages/Calender";
-import Findme from "./pages/Findme";
-import Contactme from "./pages/Contactme";
-import Datestart from "./pages/Datestart";
-import Duration from "./pages/Duration";
-import Futuretime from "./pages/Futuretime";
-import Updatedtime from "./pages/Updatedtime";
-import Sugar2 from "./pages/Sugar2";
-import Accects from "./pages/Accects";
-import Esign from "./pages/Esign";
-import Importdate from "./pages/Importdate";
-import Payment from "./pages/Payment";
-import Paymentmethod from "./pages/Paymentmethod";
-import Paymentconfirm from "./pages/Paymentconfirm";
-import Ratings from "./pages/Ratings";
-import Communitysreach from "./pages/Communitysreach";
-import Emergencycontact from "./Dategaurdpages/Emergencycontact";
-import Setcode from "./Dategaurdpages/Setcode";
-import Decoycode from "./Dategaurdpages/Decoycode";
-import Setalarm from "./Dategaurdpages/Setalarm";
-import Datetimer from "./Dategaurdpages/Datetimer";
-import Countdown from "./Dategaurdpages/Countdown";
-import Timer2 from "./Dategaurdpages/Timer2";
-import Alarmstart from "./Dategaurdpages/Alarmstart";
-import Alarmstart2 from "./Dategaurdpages/Alarmstart2";
-import Endcode from "./Dategaurdpages/Endcode";
-import Sugarontact from "./Dategaurdpages/Sugarontact";
-import Setting from "./pages/Setting";
-import Cookies from "./pages/Cookies";
-import Privacypolicy from "./pages/Privacypolicy";
-import Help from "./pages/Help";
-import Acceptterms from "./pages/Acceptterms";
-import Changepassword from "./pages/Changepassword";
-import Camera from "./Extrapages/Camera";
-import WebCamera from "./Components/WebCamera";
-import Stepbar from "./Components/Stepbar";
-import Catogaries2 from "./pages/Catogaries2";
-import Prefrence2 from "./pages/Prefrence2";
-import Appointment from "./pages/Appointment";
+import LoginPage from './pages/Auth/Login/LoginPage';
+import SelectCategory from './pages/Auth/SelectCategory/SelectCategory';
+import CompanionProviderPage from './pages/Auth/Categories/CompanionProviderPage';
+import ClientHobbyistPage from './pages/Auth/Categories/ClientHobbyistPage';
+import AgencyBusinessPage from './pages/Auth/Categories/AgencyBusinessPage';
+import InfluencerAffiliatePage from './pages/Auth/Categories/InfluencerAffiliatePage';
+import OTPVerificationPage from './pages/Auth/OTPVerification/OTPVerificationPage';
+import CongratulationsPage from './pages/Auth/OTPVerificationResult/CongratulationsPage';
+import ResetPasswordPage from './pages/Auth/Reset/ResetPasswordPage';
+import ResetPasswordConfirmPage from './pages/Auth/Reset/ResetPasswordConfirmPage';
+import ResetPasswordOTPPage from './pages/Auth/Reset/ResetPasswordOTPPage';
+import GetVaiForClientPage from './pages/Verification/VAI/GetVaiForClientPage';
+import GetVaiForBusinessPage from './pages/Verification/VAI/GetVaiForBusinessPage';
+import ConditionAndTermsPage from './pages/Verification/TermsAndCondition/ConditionAndTermsPage';
+import BusinessVAIAddiionPage from './pages/Verification/VAIAddition/BusinessVAIAdditionPage';
+import ClientSubScription from './pages/ClientVerification/ClientSubScription';
+import ClientPayment from './pages/ClientPayment/Payment';
+import ClientPaymentViaCoupon from './pages/ClientPaymentViaCoupon/ClientPaymentViaCoupon';
+import ClientPaymentDiscount from './pages/ClientPaymentDiscount/ClientPaymentDiscount';
+import ClientGotoVAI from './pages/ClientGoToVAI/ClientGotoVAI';
+import ClientPaymentSuccess from './pages/ClientPaymentSuccess/ClientPaymentSuccess';
+import Services from './pages/Services/Services';
+import BusinessCongratulation from './pages/Congratulations/BusinessCongratulation';
+import BusinessCongratulationSecond from './pages/Congratulations/BusinessCongratulation2';
+import CompanionCongratulation from './pages/Congratulations/CompanionCongratulation';
+import Language from './pages/Language/Language';
+import PersonalInformation from './pages/PersonalInformation/PersonalInformation';
+import MutualContractSign from './pages/MutualContract/MutualContractSign';
+import MyVairipay from './pages/MyVairipay/MyVairipay';
+import MyVairipayAdd from './pages/MyVairipayAdd/MyVairipayAdd';
+import MyVairipayQR from './pages/MyVairipayQR/MyVairipayQR';
+import MyVairipayRequest from './pages/MyVairipayRequest/MyVairipayRequest';
+import MyVairipayRequestSecond from './pages/MyVairipayRequestSecond/MyVairipayRequestSecond';
+import MyVairipayAppleRequestQR from './pages/MyVairipayAppleRequestQR/MyVairipayAppleRequestQR';
+import MyVairipayRequestConfirm from './pages/MyVairipayRequestConfirm/MyVairipayRequestConfirm';
+import MyVairipayOptions from './pages/MyVairipayOptions/MyVairipayOptions';
+import MyVairipaySearch from './pages/MyVairipaySearch/MyVairipaySearch';
+import MyVairipayCountrySearch from './pages/MyVairipayCountrySearch/MyVairipayCountrySearch';
+import ProfilePhotoGallery from './pages/ProfilePhotoGallery/ProfilePhotoGallery';
+import InAppFacialrecognition from './pages/InAppFacialRecognition/InAppFacialRecognition';
+import FacialRecognition from './pages/FacialRecognition/FacialRecognition';
+import FacialRecognitionConfirm from './pages/FacialRecognitionConfirm/FacialRecognitionConfirm';
+import SetRateServices from './pages/RateServices/SetRateServices'
+import ProfileHourlyRate from './pages/ProfileHourlyRates/ProfileHourlyRates'
+import ProfileCalendar from './pages/ProfileCalendar/ProfileCalendar'
+import Calendar from './pages/Calendar/Calendar'
+import Schedule from './pages/Schedule/Schedule'
+import SetSchedule from './pages/SetSchedule/SetSchedule'
+import SetRules from './pages/SetRules/SetRules'
+import SyncCalendar from './pages/SyncCalendar/SyncCalendar'
+import DateGuard from './pages/DateGuard/DateGuard'
+import Contact from './pages/Contact';
+import CallScreen from './pages/CallScreen';
+import EditVairify from './pages/EditVairify/EditVairify'
+import StaffSettings from './pages/StaffSettings/StaffSettings';
+import BusinessHours from './pages/BusinessHours/BusinessHours';
+import BusinessRateServices from './pages/BusinessRateServices/BusinessRateServices';
+import BusinessServices from './pages/BusinessServices/BusinessServices';
+import HotRod from './pages/HotRod/HotRod';
+import Sugar from './pages/Sugar/Sugar';
+import IntimateMassage from './pages/IntimateMassage';
+import AboutMe from './pages/AboutMe/Aboutme';
+import Comments from './pages/Comments/Comments';
+import Reviews from './pages/Reviews/Reviews';
+import Staff from './pages/Staff';
+import SearchResult from './pages/SearchResult';
+import MarketPlace from './pages/MarketPlace';
+import MarketPlace_ from './pages/MarketPlace_';
+import MarketPlace__ from './pages/MarketPlace__';
+import TextCallLog from './pages/TextCallLog';
+import Analysis from './pages/Analysis/Analysis';
+import FollowMe from './pages/FollowMe/FollowMe';
+import FirstAvailableSchedule from './pages/FirstAvailableSchedule/FirstAvailableSchedule';
+import MyVAIRIFY from './pages/MyVAIRIFY';
+import SelectTime from './pages/SelectTime/SelectTime';
+import ServicesRates from './pages/ServicesRates/ServicesRates';
+import ServiceRatesIntimateMassage from './pages/ServicesRatesIntimateMassage/ServicesRatesIntimateMassage';
+import UpcomingBookingDetails from './pages/UpcomingBookingDetails/UpcomingBookingDetails';
+import SendingMessage from './pages/SendingMessage/SendingMessage';
+import CalendarSetting from './pages/CalendarSetting';
+import Invite from './pages/Invite';
+import ActiveInvitation from './pages/ActiveInvitations/ActiveInvitations';
+import QRScan from './pages/QRScan/QRScan';
+import VairifyIdInput from './pages/VairifyIDInput/VairifyIdInput';
+import ESignAndSend from './pages/ESignAndSend/ESignAndSend';
+import AcceptDeny from './pages/AcceptDeny/AcceptDeny';
+import VerifiedAcceptDeny from './pages/VerifiedAcceptDeny/VerifiedAcceptDeny';
+import SugarCongratulations from './pages/SugarCongratulations/SugarCongratulations';
+import Vairidate from './pages/Vairidate/Vairidate';
+import VairidateVerification from './pages/VairidateVerification/VairidateVerification';
+import SetDateGuardDisarmDecoyCode from './pages/SetDateGuardDisarmDecoyCode/SetDateGuardDisarmDecoyCode';
+import SuccessChangedCode from './pages/SuccessChangedCode/SuccessChangedCode';
+import DateGuardPasswordInput from './pages/DateGuardPasswordInput/DateGuardPasswordInput';
+import PasswordSuccessChanged from './pages/PasswordSuccessChanged/PasswordSuccessChanged';
+import DateGuardSelectGroup from './pages/DateGuardSelectGroup/DateGuardSelectGroup';
+import DateGuardEditGroup from './pages/DateGuardEditGroup/DateGuardEditGroup';
+import DateGuardAddMember from './pages/DateGuardAddMember/DateGuardAddMember';
+import InviteMemberToGroup from './pages/InviteMemberToGroup/InviteMemberToGroup';
+import UpcomingAppointments from './pages/UpcomingAppointments';
+import UpcomingAppointments_ from './pages/UpcomingAppointments_';
+import UpcomingAppointments__ from './pages/UpcomingAppointments__';
+import AppointmentHistory from './pages/AppointmentHistory';
+import JoinMemberToGroup from './pages/JoinMemberToGroup/JoinMemberToGroup';
+import DateGuardInvitedMembers from './pages/DateGuardInvitedMembers/DateGuardInvitedMembers';
+import AppointmentHistory_ from './pages/Appointmenthistory_';
+// import PendingRequests from './pages/PendingRequests';
+import DateGuardSetTimeAlarm from './pages/DateGuardSetTimeAlarm/DateGuardSetTimeAlarm';
+import PostAnnouncement from './pages/PostAnnouncement/index';
+import MarketplacePosts from './pages/MarketplacePosts';
+import MarketplacePosts_ from './pages/MarketplacePosts_';
+import DateGuardCountUp from './pages/DateGuardCountUp/DateGuardCountUp';
+import DateGuardPhotoTake from './pages/DateGuardPhotoTake/DateGuardPhotoTake';
+import DateGuardSendMessage from './pages/DateGuardSendMessage/DateGuardSendMessage';
+import DateGuardAlarm from './pages/DateGuardAlarm/DateGuardAlarm';
+import Chat from './pages/Chat';
+import GoldenRoseTokens from './pages/GoldenRoseTokens/GoldenRoseTokens';
+
+import Comment from "./pages/Gallery/Comment";
+import Invitations from "./pages/Requests/Invitations";
+import PendingRequests from "./pages/Requests/PendingRequests";
+import AppointmentHistory3 from "./pages/Appointment/AppointmentHistory";
+import UpcomingAppointmentsss from "./pages/UpcomingAppointmentss/UpcomingAppointments.js"
+import EscortResults from "./pages/EscortResults/EscortResults";
+import LadyRequest from "./pages/LadyRequest/LadyRequest";
+import LadyAppointment from "./pages/LadyAppointment/LadyAppointment";
+import LadypastAppointment from "./pages/LadyPastAppointment/LadyPastAppointment";
+import DancerEntertainer from "./pages/DancerEntertainer/DancerEntertainer";
+import Escort from "./pages/Escort/Escort";
+import Massage from "./pages/Massage/Massage";
+import MassageServices from "./pages/Massage/MassageServices";
+import PersonalInformationOrientation from "./pages/PersonalInformationOrientation/PersonalInformationOrientation";
+import Featured from "./pages/Featured/Featured";
+import EscortType from "./pages/EscortType/EscortType";
+import LifestyleClubs from "./pages/LifestyleClubs/LifestyleClubs";
+import AdvancedSearchEscort from "./pages/AdvancedSearchEscort/AdvancedSearchEscort";
+import HourlyRates from "./pages/HourlyRates/HourlyRates";
+import ServicesOffered from "./pages/ServicesOffered/ServicesOffered";
+import ServiceRates from "./pages/ServiceRates/ServiceRates";
+import SensualServices from './pages/SensualServices/SensualServices';
+import MassageServicesSetUp from './pages/MassageServices/MassageServices';
+import AdvancedSearch from './pages/AdvancedSearch/AdvancedSearch';
+import MassageType from './pages/MassageType/MassageType';
+import AdvancedSearchExpanded from './pages/AdvancedSearchExpanded/AdvancedSearchExpanded';
+import DancerEntertainerSetup from './pages/DancerEntertainerSetup/DancerEntertainerSetup';
+import DancerEntertainerAdvanced from './pages/DancerEntertainerAdvanced/DancerEntertainerAdvanced';
+import AdultStores from './pages/AdultStores/AdultStores';
 
 function App() {
   return (
-    <div className="App mt-33">
+    <div className="App">
       <Routes>
-        <Route path="/" index element={<Home />} />
-        <Route path="/Signup" element={<Ragistration />} />
-        <Route path="/Forgot" element={<Forgotpassword />} />
-        <Route path="/Forgotpassword" element={<Forgotpassword />} />
-        <Route path="/Mobile" element={<Otpmobile />} />
-        <Route path="/Email" element={<Otpemail />} />
-        <Route path="/Completed" element={<Completed />} />
-        <Route path="/Idtypes" element={<Idtypes />} />
-        <Route path="/Review" element={<Reviewss />} />
-        <Route path="/Reviews" element={<Reviews />} />
-        <Route path="/Salect" element={<Salect />} />
-        <Route path="/Emails" element={<Emails />} />
-        <Route path="/Options" element={<Options />} />
-        <Route path="/Coupancode" element={<Coupancode />} />
-        <Route path="/Entercode" element={<Entercode />} />
-        <Route path="/Via" element={<Via />} />
-        <Route path="/Idfront" element={<Idfront />} />
-        <Route path="/Idback" element={<Idback />} />
-        <Route path="/Idverify" element={<Idverify />} />
-        <Route path="/Face" element={<Face />} />
-        <Route path="/Verified" element={<Verified />} />
-        <Route path="/Newmaxico" element={<Newmaxico />} />
-        <Route path="/Idverified" element={<Idverified />} />
-        <Route path="/Background" element={<Background />} />
-        <Route path="/Process" element={<Process />} />
-        <Route path="/Communityprofile" element={<Communityprofile />} />
-        <Route path="/Catogaries" element={<Catogaries />} />
-        <Route path="/Catogaries2" element={<Catogaries2 />} />
-        <Route path="/Prefrence" element={<Prefrence />} />
-        <Route path="/Prefrence2" element={<Prefrence2 />} />
-        <Route path="/Appointment" element={<Appointment />} />
-        <Route path="/Searcgresult" element={<Searcgresult />} />
-        <Route path="/Searcgresults" element={<Searcgresult />} />
-        <Route path="/Sugar" element={<Sugar />} />
-        <Route path="/Aboutme" element={<Aboutme />} />
-        <Route path="/Gallary" element={<Gallary />} />
-        <Route path="/History" element={<History />} />
-        <Route path="/Rates" element={<Rates />} />
-        <Route path="/Calender" element={<Calender />} />
-        <Route path="/Findme" element={<Findme />} />
-        <Route path="/Contact" element={<Contactme />} />
-        <Route path="/Sugars" element={<Sugar />} />
-        <Route path="/Datestart" element={<Datestart />} />
-        <Route path="/Duration" element={<Duration />} />
-        <Route path="/Futuretime" element={<Futuretime />} />
-        <Route path="/Updatedtime" element={<Updatedtime />} />
-        <Route path="/Sugar2" element={<Sugar2 />} />
-        <Route path="/Accects" element={<Accects />} />
-        <Route path="/Esign" element={<Esign />} />
-        <Route path="/Importdate" element={<Importdate />} />
-        <Route path="/Payment" element={<Payment />} />
-        <Route path="/Paymentmethod" element={<Paymentmethod />} />
-        <Route path="/Paymentconfirm" element={<Paymentconfirm />} />
-        <Route path="/Ratings" element={<Ratings />} />
-        <Route path="/Communitysreach" element={<Communitysreach />} />
-        <Route path="/Emergencycontact" element={<Emergencycontact />} />
-        <Route path="/Setcode" element={<Setcode />} />
-        <Route path="/Decoycode" element={<Decoycode />} />
-        <Route path="/Setalarm" element={<Setalarm />} />
-        <Route path="/Datetimer" element={<Datetimer />} />
-        <Route path="/Countdown" element={<Countdown />} />
-        <Route path="/Timer2" element={<Timer2 />} />
-        <Route path="/Alarmstart" element={<Alarmstart />} />
-        <Route path="/Alarmstart2" element={<Alarmstart2 />} />
-        <Route path="/Endcode" element={<Endcode />} />
-        <Route path="/Sugarontact" element={<Sugarontact />} />
-        <Route path="/Setting" element={<Setting />} />
-        <Route path="/Cookies" element={<Cookies />} />
-        <Route path="/Privacypolicy" element={<Privacypolicy />} />
-        <Route path="/Home" element={<Home />} />
-        <Route path="/Help" element={<Help />} />
-        <Route path="/Acceptterms" element={<Acceptterms />} />
-        <Route path="/Changepassword" element={<Changepassword />} />
-        <Route path="/Camera" element={<Camera />} />
+        <Route path="/" element={<Navigate to='/login' />}></Route>
+        <Route path='/login' element={<LoginPage />}></Route>
+        <Route path="/chain-pass-id" element={<SelectCategory />}></Route>
+        <Route path="/companion-provider" element={<CompanionProviderPage />}></Route>
+        <Route path="/client-hobbyist" element={<ClientHobbyistPage />}></Route>
+        <Route path="/agency-business" element={<AgencyBusinessPage />}></Route>
+        <Route path="/influencer-affiliate" element={<InfluencerAffiliatePage />}></Route>
+        <Route path="/otp-verification" element={<OTPVerificationPage />}></Route>
+        <Route path="/otp-congratulations" element={<CongratulationsPage />}></Route>
+        <Route path="/reset-password" element={<ResetPasswordPage />}></Route>
+        <Route path="/reset-password-otp" element={<ResetPasswordOTPPage />}></Route>
+        <Route path="/reset-password-confirm" element={<ResetPasswordConfirmPage />}></Route>
+        <Route path="/client-get-vai" element={<GetVaiForClientPage />}></Route>
+        <Route path="/business-get-vai" element={<GetVaiForBusinessPage />}></Route>
+        <Route path="/client-condition-terms" element={<ConditionAndTermsPage />}></Route>
+        <Route path="/business-vai-addition" element={<BusinessVAIAddiionPage />}></Route>
+        <Route path="/client-subscription" element={<ClientSubScription />}></Route>
+        <Route path="/client-payment" element={<ClientPayment />}></Route>
+        <Route path="/client-payment-via-coupon" element={<ClientPaymentViaCoupon />}></Route>
+        <Route path="/client-payment-discount" element={<ClientPaymentDiscount />}></Route>
+        <Route path="/client-go-to-vai" element={<ClientGotoVAI />}></Route>
+        <Route path='/client-payment-success' element={<ClientPaymentSuccess />}></Route>
+        <Route path='/client-services' element={<Services />}></Route>
+        <Route path="/business-congratulation" element={<BusinessCongratulation />}></Route>
+        <Route path="/business-congratulation-second" element={<BusinessCongratulationSecond />}></Route>
+        <Route path="/companion-congratulation" element={<CompanionCongratulation />}></Route>
+        <Route path="/language" element={<Language />}></Route>
+        <Route path="/personal-information" element={<PersonalInformation />}></Route>
+        <Route path="/mutual-contract-sign" element={<MutualContractSign />}></Route>
+        <Route path='/my-vairipay' element={<MyVairipay />}></Route>
+        <Route path='/my-vairipay-add' element={<MyVairipayAdd />}></Route>
+        <Route path='/my-vairipay-qr' element={<MyVairipayQR />}></Route>
+        <Route path='/user/my-vairipay-request' element={<MyVairipayRequest />}></Route>
+        <Route path='/user/my-vairipay-request-second' element={<MyVairipayRequestSecond />}></Route>
+        <Route path='/my-vairipay-apple-request-qr' element={<MyVairipayAppleRequestQR />}></Route>
+        <Route path='/user/my-vairipay-request-confirm' element={<MyVairipayRequestConfirm />}></Route>
+        <Route path='/my-vairipay-options' element={<MyVairipayOptions />}></Route>
+        <Route path='/my-vairipay-search' element={<MyVairipaySearch />}></Route>
+        <Route path='/my-vairipay-country-search' element={<MyVairipayCountrySearch />}></Route>
+        <Route path='/business-profile-gallery' element={<ProfilePhotoGallery />}></Route>
+        <Route path='/in-app-facial-recognition' element={<InAppFacialrecognition />}></Route>
+        <Route path='/facial-recognition' element={<FacialRecognition />}></Route>
+        <Route path='/facial-recognition-confirm' element={<FacialRecognitionConfirm />}></Route>
+        <Route path='/set-rate-services' element={<SetRateServices />}></Route>
+        <Route path='/set-hourly-rate' element={<ProfileHourlyRate />}></Route>
+        <Route path='/set-profile-calendar' element={<ProfileCalendar />}></Route>
+        <Route path='/calendar' element={<Calendar />}></Route>
+        <Route path='/schedule' element={<Schedule />}></Route>
+        <Route path='/set-schedule' element={<SetSchedule />}></Route>
+        <Route path='/set-rules' element={<SetRules />}></Route>
+        <Route path='/sync-calendar' element={<SyncCalendar />}></Route>
+        <Route path='/date-guard' element={<DateGuard />}></Route>
+        <Route path='/user/contact' element={<Contact />}></Route>
+        <Route path='/user/call-screen' element={<CallScreen />}></Route>
+        <Route path='/staff' element={<Staff />}></Route>
+        <Route path='/search-result' element={<SearchResult />}></Route>
+        <Route path='/user/market-place' element={<MarketPlace />}></Route>
+        <Route path='/user/market-place_' element={<MarketPlace_ />}></Route>
+        <Route path='/user/market-place__' element={<MarketPlace__ />}></Route>
+        <Route path='/text-call-log' element={<TextCallLog />}></Route>
+        <Route path='/my-vairify' element={<MyVAIRIFY />}></Route>
+        <Route path='/cal-setting' element={<CalendarSetting />}></Route>
+        <Route path='/invite' element={<Invite />}></Route>
+        <Route path='/user/upcoming-appointments' element={<UpcomingAppointments />}></Route>
+        <Route path='/user/upcoming-appointments_' element={<UpcomingAppointments_ />}></Route>
+        <Route path='/user/upcoming-appointments__' element={<UpcomingAppointments__ />}></Route>
+        <Route path='/appointment-history' element={<AppointmentHistory />}></Route>
+        <Route path='/user/appointment-history_' element={<AppointmentHistory_ />}></Route>
+        <Route path='/pending-requests' element={<PendingRequests/>}></Route>
+        <Route path='/market-place-posts' element={<MarketplacePosts />}></Route>
+        <Route path='/market-place-posts_' element={<MarketplacePosts_ />}></Route>
+        <Route path='/post-announcement' element={<PostAnnouncement />}></Route>
+        <Route path='/chat' element={<Chat />}></Route>
+        <Route path='/edit-vairify' element={<EditVairify />}></Route>
+        <Route path='/staff-settings' element={<StaffSettings />}></Route>
+        <Route path='/business-hours' element={<BusinessHours />}></Route>
+        <Route path='/business-rate-services' element={<BusinessRateServices />}></Route>
+        <Route path='/business-services' element={<BusinessServices />}></Route>
+        <Route path='/user/hot-rod' element={<HotRod />}></Route>
+        <Route path='/user/sugar' element={<Sugar />}></Route>
+        <Route path='/user/intimate-massage' element={<IntimateMassage />}></Route>
+        <Route path='/user/about-me' element={<AboutMe />}></Route>
+        <Route path='/user/comments' element={<Comments />}></Route>
+        <Route path='/reviews' element={<Reviews />}></Route>
+        <Route path='/analysis' element={<Analysis />}></Route>
+        <Route path='/follow-me' element={<FollowMe />}></Route>
+        <Route path='/user/first_available-schedule' element={<FirstAvailableSchedule />}></Route>
+        <Route path='/user/select-time' element={<SelectTime />}></Route>
+        <Route path='/user/services-rates' element={<ServicesRates />}></Route>
+        <Route path='/services-rates-intimate-massage' element={<ServiceRatesIntimateMassage />}></Route>
+        <Route path='/user/upcoming-booking-details' element={<UpcomingBookingDetails />}></Route>
+        <Route path='/user/sending-message' element={<SendingMessage />}></Route>
+        <Route path='/active-invitation' element={<ActiveInvitation />}></Route>
+        <Route path='/qr-scan' element={<QRScan />}></Route>
+        <Route path='/vairify-id-input' element={<VairifyIdInput />}></Route>
+        <Route path='/user/esign-send' element={<ESignAndSend />}></Route>
+        <Route path='/user/accept-deny' element={<AcceptDeny />}></Route>
+        <Route path='/verified-accept-deny' element={<VerifiedAcceptDeny />}></Route>
+        <Route path='/sugar-congratulations' element={<SugarCongratulations />}></Route>
+        <Route path='/vairidate' element={<Vairidate />}></Route>
+        <Route path='/vairidate-verification' element={<VairidateVerification />}></Route>
+        <Route path='/date-guard/set-code' element={<SetDateGuardDisarmDecoyCode />}></Route>
+        <Route path='/date-guard/success-code-changed' element={<SuccessChangedCode />}></Route>
+        <Route path='/date-guard/password-input' element={<DateGuardPasswordInput />}></Route>
+        <Route path='/date-guard/password-success-changed' element={<PasswordSuccessChanged />}></Route>
+        <Route path='/date-guard/select-group' element={<DateGuardSelectGroup />}></Route>
+        <Route path='/date-guard/edit-group' element={<DateGuardEditGroup />}></Route>
+        <Route path='/date-guard/add-member' element={<DateGuardAddMember />}></Route>
+        <Route path='/date-guard/invite-member' element={<InviteMemberToGroup />}></Route>
+        <Route path='/join-member-to-group' element={<JoinMemberToGroup />}></Route>
+        <Route path='/date-guard/invited-members' element={<DateGuardInvitedMembers />}></Route>
+        <Route path='/date-guard/set-time-alarm' element={<DateGuardSetTimeAlarm />}></Route>
+        <Route path='/date-guard/count-up' element={<DateGuardCountUp />}></Route>
+        <Route path='/date-guard/photo-take' element={<DateGuardPhotoTake />}></Route>
+        <Route path='/date-guard/send-message' element={<DateGuardSendMessage />}></Route>
+        <Route path='/date-guard/alarm' element={<DateGuardAlarm />}></Route>
+        <Route path='/godlen-rose-tokens' element={<GoldenRoseTokens />}></Route>
+
+
+        <Route path="/gallery-comment" element={<Comment />}></Route>
+        <Route path="/pending-invitations" element={<Invitations />}></Route>
+        {/* <Route path="/pending-requests" element={<PendingRequests />}></Route> */}
+        <Route path="/appointment-history" element={<AppointmentHistory3 />}></Route>
+        <Route path="/upcoming-appointmentsss" element={<UpcomingAppointmentsss />}></Route>
+        <Route path="/escort-results" element={<EscortResults />}></Route>
+        <Route path="/lady-request" element={<LadyRequest />}></Route>
+        <Route path="/lady-appointment" element={<LadyAppointment />}></Route>
+        <Route path="/ladypast-appointment" element={<LadypastAppointment />}></Route>
+        <Route path="/dancer-entertainer" element={<DancerEntertainer />}></Route>
+        <Route path="/escort" element={<Escort />}></Route>
+        <Route path="/massage" element={<Massage />}></Route>
+        <Route path="/massage-services" element={<MassageServices />}></Route>
+        <Route path="/personal-information-orientation" element={<PersonalInformationOrientation />}></Route>
+        <Route path="/featured" element={<Featured />}></Route>
+        <Route path="/escort-type" element={<EscortType />}></Route>
+        <Route path="/lifestyle-clubs" element={<LifestyleClubs />}></Route>
+        <Route path="/advanced-search-escort" element={<AdvancedSearchEscort />}></Route>
+        <Route path="/hourly-rates" element={<HourlyRates />}></Route>
+        <Route path="/services-offered" element={<ServicesOffered />}></Route>
+        <Route path="/service-rates" element={<ServiceRates />}></Route>
+        <Route path='/sensual-services' element={<SensualServices />}></Route>
+        <Route path='/massage-services-setup' element={<MassageServicesSetUp />}></Route>
+        <Route path='/advanced-search' element={<AdvancedSearch />}></Route>
+        <Route path='/massage-type' element={<MassageType />}></Route>
+        <Route path='/advanced-search-expanded' element={<AdvancedSearchExpanded />}></Route>
+        <Route path='/dancer-entertainer-setup' element={<DancerEntertainerSetup />}></Route>
+        <Route path='/dancer-entertainer-advanced' element={<DancerEntertainerAdvanced />}></Route>
+        <Route path='/adult-stores' element={<AdultStores />}></Route>
       </Routes>
     </div>
   );

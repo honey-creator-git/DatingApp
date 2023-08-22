@@ -1,0 +1,7910 @@
+[
+  {
+    "id": 1,
+    "country_name": "United States",
+    "image": "usa.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "New York City, New York"
+      },
+      {
+        "id": 2,
+        "name": "Los Angeles, California"
+      },
+      {
+        "id": 3,
+        "name": "Chicago, Illinois"
+      },
+      {
+        "id": 4,
+        "name": "Houston, Texas"
+      },
+      {
+        "id": 5,
+        "name": "Phoenix, Arizona"
+      },
+      {
+        "id": 6,
+        "name": "Philadelphia, Pennsylvania"
+      },
+      {
+        "id": 7,
+        "name": "San Antonio, Texas"
+      },
+      {
+        "id": 8,
+        "name": "San Diego, California"
+      },
+      {
+        "id": 9,
+        "name": "Dallas, Texas"
+      },
+      {
+        "id": 10,
+        "name": "San Jose, California"
+      },
+      {
+        "id": 11,
+        "name": "Austin, Texas"
+      },
+      {
+        "id": 12,
+        "name": "Jacksonville, Florida"
+      },
+      {
+        "id": 13,
+        "name": "Fort Worth, Texas"
+      },
+      {
+        "id": 14,
+        "name": "Columbus, Ohio"
+      },
+      {
+        "id": 15,
+        "name": "San Francisco, California"
+      },
+      {
+        "id": 16,
+        "name": "Charlotte, North Carolina"
+      },
+      {
+        "id": 17,
+        "name": "Indianapolis, Indiana"
+      },
+      {
+        "id": 18,
+        "name": "Seattle, Washington"
+      },
+      {
+        "id": 19,
+        "name": "Denver, Colorado"
+      },
+      {
+        "id": 20,
+        "name": "Washington, D.C."
+      },
+      {
+        "id": 21,
+        "name": "Boston, Massachusetts"
+      },
+      {
+        "id": 22,
+        "name": "Detroit, Michigan"
+      },
+      {
+        "id": 23,
+        "name": "El Paso, Texas"
+      },
+      {
+        "id": 24,
+        "name": "Nashville, Tennessee"
+      },
+      {
+        "id": 25,
+        "name": "Memphis, Tennessee"
+      },
+      {
+        "id": 26,
+        "name": "Portland, Oregon"
+      },
+      {
+        "id": 27,
+        "name": "Oklahoma City, Oklahoma"
+      },
+      {
+        "id": 28,
+        "name": "Las Vegas, Nevada"
+      },
+      {
+        "id": 29,
+        "name": "Louisville, Kentucky"
+      },
+      {
+        "id": 30,
+        "name": "Baltimore, Maryland"
+      },
+      {
+        "id": 31,
+        "name": "Milwaukee, Wisconsin"
+      },
+      {
+        "id": 32,
+        "name": "Albuquerque, New Mexico"
+      },
+      {
+        "id": 33,
+        "name": "Tucson, Arizona"
+      },
+      {
+        "id": 34,
+        "name": "Fresno, California"
+      },
+      {
+        "id": 35,
+        "name": "Sacramento, California"
+      },
+      {
+        "id": 36,
+        "name": "Mesa, Arizona"
+      },
+      {
+        "id": 37,
+        "name": "Atlanta, Georgia"
+      },
+      {
+        "id": 38,
+        "name": "Kansas City, Missouri"
+      },
+      {
+        "id": 39,
+        "name": "Colorado Springs, Colorado"
+      },
+      {
+        "id": 40,
+        "name": "Miami, Florida"
+      },
+      {
+        "id": 41,
+        "name": "Raleigh, North Carolina"
+      },
+      {
+        "id": 42,
+        "name": "Omaha, Nebraska"
+      },
+      {
+        "id": 43,
+        "name": "Long Beach, California"
+      },
+      {
+        "id": 44,
+        "name": "Virginia Beach, Virginia"
+      },
+      {
+        "id": 45,
+        "name": "Oakland, California"
+      },
+      {
+        "id": 46,
+        "name": "Minneapolis, Minnesota"
+      },
+      {
+        "id": 47,
+        "name": "Tulsa, Oklahoma"
+      },
+      {
+        "id": 48,
+        "name": "Tampa, Florida"
+      },
+      {
+        "id": 49,
+        "name": "Arlington, Texas"
+      },
+      {
+        "id": 50,
+        "name": "New Orleans, Louisiana"
+      },
+      {
+        "id": 51,
+        "name": "Wichita, Kansas"
+      },
+      {
+        "id": 52,
+        "name": "Bakersfield, California"
+      },
+      {
+        "id": 53,
+        "name": "Aurora, Colorado"
+      },
+      {
+        "id": 54,
+        "name": "Anaheim, California"
+      },
+      {
+        "id": 55,
+        "name": "Santa Ana, California"
+      },
+      {
+        "id": 56,
+        "name": "Riverside, California"
+      },
+      {
+        "id": 57,
+        "name": "Corpus Christi, Texas"
+      },
+      {
+        "id": 58,
+        "name": "Lexington, Kentucky"
+      },
+      {
+        "id": 59,
+        "name": "Stockton, California"
+      },
+      {
+        "id": 60,
+        "name": "Henderson, Nevada"
+      },
+      {
+        "id": 61,
+        "name": "Saint Paul, Minnesota"
+      },
+      {
+        "id": 62,
+        "name": "Cincinnati, Ohio"
+      },
+      {
+        "id": 63,
+        "name": "Pittsburgh, Pennsylvania"
+      },
+      {
+        "id": 64,
+        "name": "Greensboro, North Carolina"
+      },
+      {
+        "id": 65,
+        "name": "Toledo, Ohio"
+      },
+      {
+        "id": 66,
+        "name": "Plano, Texas"
+      },
+      {
+        "id": 67,
+        "name": "Lincoln, Nebraska"
+      },
+      {
+        "id": 68,
+        "name": "Orlando, Florida"
+      },
+      {
+        "id": 69,
+        "name": "Jersey City, New Jersey"
+      },
+      {
+        "id": 70,
+        "name": "Chula Vista, California"
+      },
+      {
+        "id": 71,
+        "name": "Fort Wayne, Indiana"
+      },
+      {
+        "id": 72,
+        "name": "St. Petersburg, Florida"
+      },
+      {
+        "id": 73,
+        "name": "Chandler, Arizona"
+      },
+      {
+        "id": 74,
+        "name": "Laredo, Texas"
+      },
+      {
+        "id": 75,
+        "name": "Norfolk, Virginia"
+      },
+      {
+        "id": 76,
+        "name": "Durham, North Carolina"
+      },
+      {
+        "id": 77,
+        "name": "Madison, Wisconsin"
+      },
+      {
+        "id": 78,
+        "name": "Lubbock, Texas"
+      },
+      {
+        "id": 79,
+        "name": "Irvine, California"
+      },
+      {
+        "id": 80,
+        "name": "Winston-Salem, North Carolina"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "English",
+        "image": "en.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "PayPal",
+        "image": "paypal.png",
+        "download": "https://www.paypal.com"
+      },
+      {
+        "id": 2,
+        "name": "Venmo",
+        "image": "venmo.png",
+        "download": "https://www.venmo.com/"
+      },
+      {
+        "id": 3,
+        "name": "Cash App",
+        "image": "cashapp.png",
+        "download": "https://cash.app/"
+      },
+      {
+        "id": 4,
+        "name": "Zelle",
+        "image": "zelle.png",
+        "download": "https://www.zellepay.com/"
+      },
+      {
+        "id": 5,
+        "name": "Google Pay",
+        "image": "googlepay.png",
+        "download": "https://pay.google.com/about/"
+      },
+      {
+        "id": 6,
+        "name": "Apple Pay",
+        "image": "applepay.png",
+        "download": "https://www.apple.com/apple-pay/"
+      },
+      {
+        "id": 7,
+        "name": "Facebook Pay",
+        "image": "facebookpay.png",
+        "download": "https://pay.facebook.com/"
+      },
+      {
+        "id": 8,
+        "name": "Square",
+        "image": "square.jpg",
+        "download": "https://squareup.com/"
+      },
+      {
+        "id": 9,
+        "name": "Chime",
+        "image": "chime.png",
+        "download": "https://www.chime.com/"
+      },
+      {
+        "id": 10,
+        "name": "Robinhood",
+        "image": "robinhood.png",
+        "download": "https://robinhood.com/us/en/"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "country_name": "China",
+    "image": "china.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Shanghai"
+      },
+      {
+        "id": 2,
+        "name": "Beijing"
+      },
+      {
+        "id": 3,
+        "name": "Chongqing"
+      },
+      {
+        "id": 4,
+        "name": "Tianjin"
+      },
+      {
+        "id": 5,
+        "name": "Guangzhou"
+      },
+      {
+        "id": 6,
+        "name": "Shenzhen"
+      },
+      {
+        "id": 7,
+        "name": "Wuhan"
+      },
+      {
+        "id": 8,
+        "name": "Chengdu"
+      },
+      {
+        "id": 9,
+        "name": "Hangzhou"
+      },
+      {
+        "id": 10,
+        "name": "Nanjing"
+      },
+      {
+        "id": 11,
+        "name": "Xi'an"
+      },
+      {
+        "id": 12,
+        "name": "Harbin"
+      },
+      {
+        "id": 13,
+        "name": "Jinan"
+      },
+      {
+        "id": 14,
+        "name": "Qingdao"
+      },
+      {
+        "id": 15,
+        "name": "Zhengzhou"
+      },
+      {
+        "id": 16,
+        "name": "Shijiazhuang"
+      },
+      {
+        "id": 17,
+        "name": "Fuzhou"
+      },
+      {
+        "id": 18,
+        "name": "Changsha"
+      },
+      {
+        "id": 19,
+        "name": "Dalian"
+      },
+      {
+        "id": 20,
+        "name": "Kunming"
+      },
+      {
+        "id": 21,
+        "name": "Shenyang"
+      },
+      {
+        "id": 22,
+        "name": "Urumqi"
+      },
+      {
+        "id": 23,
+        "name": "Suzhou"
+      },
+      {
+        "id": 24,
+        "name": "Changchun"
+      },
+      {
+        "id": 25,
+        "name": "Nanchang"
+      },
+      {
+        "id": 26,
+        "name": "Taiyuan"
+      },
+      {
+        "id": 27,
+        "name": "Hefei"
+      },
+      {
+        "id": 28,
+        "name": "Ningbo"
+      },
+      {
+        "id": 29,
+        "name": "Guiyang"
+      },
+      {
+        "id": 30,
+        "name": "Lanzhou"
+      },
+      {
+        "id": 31,
+        "name": "Xiamen"
+      },
+      {
+        "id": 32,
+        "name": "Changzhou"
+      },
+      {
+        "id": 33,
+        "name": "Wuxi"
+      },
+      {
+        "id": 34,
+        "name": "Nanning"
+      },
+      {
+        "id": 35,
+        "name": "Haikou"
+      },
+      {
+        "id": 36,
+        "name": "Tangshan"
+      },
+      {
+        "id": 37,
+        "name": "Zibo"
+      },
+      {
+        "id": 38,
+        "name": "Handan"
+      },
+      {
+        "id": 39,
+        "name": "Yantai"
+      },
+      {
+        "id": 40,
+        "name": "Nantong"
+      },
+      {
+        "id": 41,
+        "name": "Foshan"
+      },
+      {
+        "id": 42,
+        "name": "Hohhot"
+      },
+      {
+        "id": 43,
+        "name": "Baoding"
+      },
+      {
+        "id": 44,
+        "name": "Xuzhou"
+      },
+      {
+        "id": 45,
+        "name": "Wenzhou"
+      },
+      {
+        "id": 46,
+        "name": "Ürümqi"
+      },
+      {
+        "id": 47,
+        "name": "Luoyang"
+      },
+      {
+        "id": 48,
+        "name": "Datong"
+      },
+      {
+        "id": 49,
+        "name": "Zhuhai"
+      },
+      {
+        "id": 50,
+        "name": "Anshan"
+      },
+      {
+        "id": 51,
+        "name": "Changzhi"
+      },
+      {
+        "id": 52,
+        "name": "Taizhou (Jiangsu)"
+      },
+      {
+        "id": 53,
+        "name": "Taizhou (Zhejiang)"
+      },
+      {
+        "id": 54,
+        "name": "Liuzhou"
+      },
+      {
+        "id": 55,
+        "name": "Huainan"
+      },
+      {
+        "id": 56,
+        "name": "Jilin City"
+      },
+      {
+        "id": 57,
+        "name": "Weifang"
+      },
+      {
+        "id": 58,
+        "name": "Baotou"
+      },
+      {
+        "id": 59,
+        "name": "Liupanshui"
+      },
+      {
+        "id": 60,
+        "name": "Jiangmen"
+      },
+      {
+        "id": 61,
+        "name": "Yueyang"
+      },
+      {
+        "id": 62,
+        "name": "Xining"
+      },
+      {
+        "id": 63,
+        "name": "Bengbu"
+      },
+      {
+        "id": 64,
+        "name": "Huai'an"
+      },
+      {
+        "id": 65,
+        "name": "Quanzhou"
+      },
+      {
+        "id": 66,
+        "name": "Huaibei"
+      },
+      {
+        "id": 67,
+        "name": "Zhanjiang"
+      },
+      {
+        "id": 68,
+        "name": "Zhenjiang"
+      },
+      {
+        "id": 69,
+        "name": "Jinhua"
+      },
+      {
+        "id": 70,
+        "name": "Zhongshan"
+      },
+      {
+        "id": 71,
+        "name": "Zhangjiagang"
+      },
+      {
+        "id": 72,
+        "name": "Yangzhou"
+      },
+      {
+        "id": 73,
+        "name": "Yichun (Jiangxi)"
+      },
+      {
+        "id": 74,
+        "name": "Yancheng"
+      },
+      {
+        "id": 75,
+        "name": "Xingtai"
+      },
+      {
+        "id": 76,
+        "name": "Xiangyang"
+      },
+      {
+        "id": 77,
+        "name": "Xiaogan"
+      },
+      {
+        "id": 78,
+        "name": "Wuhu"
+      },
+      {
+        "id": 79,
+        "name": "Weihai"
+      },
+      {
+        "id": 80,
+        "name": "Tongling"
+      },
+      {
+        "id": 81,
+        "name": "Tieling"
+      },
+      {
+        "id": 82,
+        "name": "Suzhou (Anhui)"
+      },
+      {
+        "id": 83,
+        "name": "Shaoxing"
+      },
+      {
+        "id": 84,
+        "name": "Shantou"
+      },
+      {
+        "id": 85,
+        "name": "Sanya"
+      },
+      {
+        "id": 86,
+        "name": "Sanmenxia"
+      },
+      {
+        "id": 87,
+        "name": "Rizhao"
+      },
+      {
+        "id": 88,
+        "name": "Qingyuan"
+      },
+      {
+        "id": 89,
+        "name": "Pingdingshan"
+      },
+      {
+        "id": 90,
+        "name": "Nanchong"
+      },
+      {
+        "id": 91,
+        "name": "Mianyang"
+      },
+      {
+        "id": 92,
+        "name": "Luzhou"
+      },
+      {
+        "id": 93,
+        "name": "Lu'an"
+      },
+      {
+        "id": 94,
+        "name": "Loudi"
+      },
+      {
+        "id": 95,
+        "name": "Linyi"
+      },
+      {
+        "id": 96,
+        "name": "Liaocheng"
+      },
+      {
+        "id": 97,
+        "name": "Leshan"
+      },
+      {
+        "id": 98,
+        "name": "Kunshan"
+      },
+      {
+        "id": 99,
+        "name": "Jining"
+      },
+      {
+        "id": 100,
+        "name": "Jieyang"
+      },
+      {
+        "id": 101,
+        "name": "Jingzhou"
+      },
+      {
+        "id": 102,
+        "name": "Jiangyin"
+      },
+      {
+        "id": 103,
+        "name": "Jiaxing"
+      },
+      {
+        "id": 104,
+        "name": "Huzhou"
+      },
+      {
+        "id": 105,
+        "name": "Huizhou"
+      },
+      {
+        "id": 106,
+        "name": "Huangshi"
+      },
+      {
+        "id": 107,
+        "name": "Huanggang"
+      },
+      {
+        "id": 108,
+        "name": "Hengyang"
+      },
+      {
+        "id": 109,
+        "name": "Hebi"
+      },
+      {
+        "id": 110,
+        "name": "Haizhu"
+      },
+      {
+        "id": 111,
+        "name": "Guyuan"
+      },
+      {
+        "id": 112,
+        "name": "Guilin"
+      },
+      {
+        "id": 113,
+        "name": "Guigang"
+      },
+      {
+        "id": 114,
+        "name": "Gongyi"
+      },
+      {
+        "id": 115,
+        "name": "Fuzhou (Fujian)"
+      },
+      {
+        "id": 116,
+        "name": "Fuxin"
+      },
+      {
+        "id": 117,
+        "name": "Fushun"
+      },
+      {
+        "id": 118,
+        "name": "Dongying"
+      },
+      {
+        "id": 119,
+        "name": "Dongguan"
+      },
+      {
+        "id": 120,
+        "name": "Dingzhou"
+      },
+      {
+        "id": 121,
+        "name": "Deyang"
+      },
+      {
+        "id": 122,
+        "name": "Dayan"
+      },
+      {
+        "id": 123,
+        "name": "Datong (Shanxi)"
+      },
+      {
+        "id": 124,
+        "name": "Cixi"
+      },
+      {
+        "id": 125,
+        "name": "Chuzhou"
+      },
+      {
+        "id": 126,
+        "name": "Chongzhou"
+      },
+      {
+        "id": 127,
+        "name": "Chifeng"
+      },
+      {
+        "id": 128,
+        "name": "Changyi"
+      },
+      {
+        "id": 129,
+        "name": "Changshu City"
+      },
+      {
+        "id": 130,
+        "name": "Cangzhou"
+      },
+      {
+        "id": 131,
+        "name": "Caidian"
+      },
+      {
+        "id": 132,
+        "name": "Binzhou"
+      },
+      {
+        "id": 133,
+        "name": "Beihai"
+      },
+      {
+        "id": 134,
+        "name": "Baoshan"
+      },
+      {
+        "id": 135,
+        "name": "Anqing"
+      },
+      {
+        "id": 136,
+        "name": "Ankang"
+      },
+      {
+        "id": 137,
+        "name": "Anyang"
+      },
+      {
+        "id": 138,
+        "name": "Anshun"
+      },
+      {
+        "id": 139,
+        "name": "Anda"
+      },
+      {
+        "id": 140,
+        "name": "Yiwu"
+      },
+      {
+        "id": 141,
+        "name": "Yushu"
+      },
+      {
+        "id": 142,
+        "name": "Yunfu"
+      },
+      {
+        "id": 143,
+        "name": "Yulin (Guangxi)"
+      },
+      {
+        "id": 144,
+        "name": "Yulin (Shaanxi)"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": " Mandarin",
+        "image": "cn.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Alipay",
+        "image": "alipay.png",
+        "download": "https://www.alipay.com/"
+      },
+      {
+        "id": 2,
+        "name": "WeChat Pay",
+        "image": "wechatpay.png",
+        "download": "https://pay.weixin.qq.com/index.php"
+      },
+      {
+        "id": 3,
+        "name": "UnionPay",
+        "image": "unionpay.png",
+        "download": "https://www.unionpayintl.com/"
+      },
+      {
+        "id": 4,
+        "name": "JD Pay",
+        "image": "jdpay.png",
+        "download": "https://pay.jd.com/"
+      },
+      {
+        "id": 5,
+        "name": "Meituan Pay",
+        "image": "meituanpay.jpg",
+        "download": "https://www.meituan.com/"
+      },
+      {
+        "id": 6,
+        "name": "LianLian Pay",
+        "image": "lianlianpay.png",
+        "download": "https://www.lianlianpay.com/"
+      },
+      {
+        "id": 7,
+        "name": "Dianrong",
+        "image": "dianrong.png",
+        "download": "https://www.dianrong.com/"
+      },
+      {
+        "id": 8,
+        "name": "9F",
+        "image": "9f.png",
+        "download": "https://www.9fbank.com.cn/"
+      },
+      {
+        "id": 9,
+        "name": "YeePay",
+        "image": "yeepay.png",
+        "download": "https://www.yeepay.com/"
+      },
+      {
+        "id": 10,
+        "name": "QFPay",
+        "image": "qfpay.png",
+        "download": "https://www.qfpay.com/global"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "country_name": "Russia",
+    "image":"Russia.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Moscow"
+      },
+      {
+        "id": 2,
+        "name": "Saint Petersburg"
+      },
+      {
+        "id": 3,
+        "name": "Novosibirsk"
+      },
+      {
+        "id": 4,
+        "name": "Yekaterinburg"
+      },
+      {
+        "id": 5,
+        "name": "Nizhny Novgorod"
+      },
+      {
+        "id": 6,
+        "name": "Kazan"
+      },
+      {
+        "id": 7,
+        "name": "Chelyabinsk"
+      },
+      {
+        "id": 8,
+        "name": "Omsk"
+      },
+      {
+        "id": 9,
+        "name": "Samara"
+      },
+      {
+        "id": 10,
+        "name": "Rostov-on-Don"
+      },
+      {
+        "id": 11,
+        "name": "Ufa"
+      },
+      {
+        "id": 12,
+        "name": "Krasnoyarsk"
+      },
+      {
+        "id": 13,
+        "name": "Perm"
+      },
+      {
+        "id": 14,
+        "name": "Voronezh"
+      },
+      {
+        "id": 15,
+        "name": "Volgograd"
+      },
+      {
+        "id": 16,
+        "name": "Saratov"
+      },
+      {
+        "id": 17,
+        "name": "Krasnodar"
+      },
+      {
+        "id": 18,
+        "name": "Tolyatti"
+      },
+      {
+        "id": 19,
+        "name": "Izhevsk"
+      },
+      {
+        "id": 20,
+        "name": "Ulyanovsk"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Russian",
+        "image": "ru.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "QIWI",
+        "image": "qiwi.png",
+        "download": "https://qiwi.com/"
+      },
+      {
+        "id": 2,
+        "name": "Yandex.Money",
+        "image": "yandexmoney.png",
+        "download": "https://money.yandex.ru/"
+      },
+      {
+        "id": 3,
+        "name": "Sberbank Online",
+        "image": "sberbankonline.png",
+        "download": "https://online.sberbank.ru/"
+      },
+      {
+        "id": 4,
+        "name": "WebMoney",
+        "image": "webmoney.png",
+        "download": "https://www.wmtransfer.com/"
+      },
+      {
+        "id": 5,
+        "name": "Tinkoff Bank",
+        "image": "tinkoffbank.png",
+        "download": "https://www.tinkoff.ru/"
+      },
+      {
+        "id": 6,
+        "name": "Alfa-Bank",
+        "image": "alfabank.png",
+        "download": "https://alfabank.ru/"
+      },
+      {
+        "id": 7,
+        "name": "PaySend",
+        "image": "paysend.png",
+        "download": "https://paysend.com/"
+      },
+      {
+        "id": 8,
+        "name": "Tele2",
+        "image": "tele2.png",
+        "download": "https://tele2.ru/"
+      },
+      {
+        "id": 9,
+        "name": "VTB Bank",
+        "image": "vtbbank.png",
+        "download": "https://www.vtb.ru/"
+      },
+      {
+        "id": 10,
+        "name": "Gazprombank",
+        "image": "gazprombank.png",
+        "download": "https://www.gazprombank.ru/"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "country_name": "UK",
+    "image":"uk.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "London",
+        "description": "The capital and largest city of the UK."
+      },
+      {
+        "id": 2,
+        "name": "Birmingham"
+      },
+      {
+        "id": 3,
+        "name": "Manchester"
+      },
+      {
+        "id": 4,
+        "name": "Glasgow"
+      },
+      {
+        "id": 5,
+        "name": "Leeds"
+      },
+      {
+        "id": 6,
+        "name": "Liverpool"
+      },
+      {
+        "id": 7,
+        "name": "Edinburgh"
+      },
+      {
+        "id": 8,
+        "name": "Bristol"
+      },
+      {
+        "id": 9,
+        "name": "Sheffield"
+      },
+      {
+        "id": 10,
+        "name": "Newcastle upon Tyne"
+      },
+      {
+        "id": 11,
+        "name": "Nottingham"
+      },
+      {
+        "id": 12,
+        "name": "Cardiff"
+      },
+      {
+        "id": 13,
+        "name": "Southampton"
+      },
+      {
+        "id": 14,
+        "name": "Belfast"
+      },
+      {
+        "id": 15,
+        "name": "Leicester"
+      },
+      {
+        "id": 16,
+        "name": "Coventry"
+      },
+      {
+        "id": 17,
+        "name": "Bradford"
+      },
+      {
+        "id": 18,
+        "name": "Aberdeen"
+      },
+      {
+        "id": 19,
+        "name": "Plymouth"
+      },
+      {
+        "id": 20,
+        "name": "Wolverhampton"
+      },
+      {
+        "id": 21,
+        "name": "Stoke-on-Trent"
+      },
+      {
+        "id": 22,
+        "name": "Derby"
+      },
+      {
+        "id": 23,
+        "name": "Swansea"
+      },
+      {
+        "id": 24,
+        "name": "Southampton"
+      },
+      {
+        "id": 25,
+        "name": "Southampton"
+      },
+      {
+        "id": 26,
+        "name": "Southampton"
+      },
+      {
+        "id": 27,
+        "name": "Luton"
+      },
+      {
+        "id": 28,
+        "name": "Wolverhampton"
+      },
+      {
+        "id": 29,
+        "name": "Reading"
+      },
+      {
+        "id": 30,
+        "name": "Bolton"
+      },
+      {
+        "id": 31,
+        "name": "Bournemouth"
+      },
+      {
+        "id": 32,
+        "name": "Norwich"
+      },
+      {
+        "id": 33,
+        "name": "Preston"
+      },
+      {
+        "id": 34,
+        "name": "Newport"
+      },
+      {
+        "id": 35,
+        "name": "Sunderland"
+      },
+      {
+        "id": 36,
+        "name": "Swansea"
+      },
+      {
+        "id": 37,
+        "name": "Swindon"
+      },
+      {
+        "id": 38,
+        "name": "Southend-on-Sea"
+      },
+      {
+        "id": 39,
+        "name": "Middlesbrough"
+      },
+      {
+        "id": 40,
+        "name": "Peterborough"
+      },
+      {
+        "id": 41,
+        "name": "Warrington"
+      },
+      {
+        "id": 42,
+        "name": "Huddersfield"
+      },
+      {
+        "id": 43,
+        "name": "Slough"
+      },
+      {
+        "id": 44,
+        "name": "Oxford"
+      },
+      {
+        "id": 45,
+        "name": "York"
+      },
+      {
+        "id": 46,
+        "name": "Blackpool"
+      },
+      {
+        "id": 47,
+        "name": "Poole"
+      },
+      {
+        "id": 48,
+        "name": "Dundee"
+      },
+      {
+        "id": 49,
+        "name": "Ipswich"
+      },
+      {
+        "id": 50,
+        "name": "Telford"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "English",
+        "image": "en.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "PayPal",
+        "image": "paypal.png",
+        "download": "https://www.paypal.com/uk/"
+      },
+      {
+        "id": 2,
+        "name": "Revolut",
+        "image": "revolut.png",
+        "download": "https://www.revolut.com/"
+      },
+      {
+        "id": 3,
+        "name": "TransferWise",
+        "image": "transferwise.png",
+        "download": "https://www.wise.com/"
+      },
+      {
+        "id": 4,
+        "name": "Monzo",
+        "image": "monzo.png",
+        "download": "https://monzo.com/"
+      },
+      {
+        "id": 5,
+        "name": "Starling Bank",
+        "image": "starlingbank.png",
+        "download": "https://www.starlingbank.com/"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "country_name": "France",
+    "image":"France.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Paris"
+      },
+      {
+        "id": 2,
+        "name": "Marseille"
+      },
+      {
+        "id": 3,
+        "name": "Lyon"
+      },
+      {
+        "id": 4,
+        "name": "Toulouse"
+      },
+      {
+        "id": 5,
+        "name": "Nice"
+      },
+      {
+        "id": 6,
+        "name": "Nantes"
+      },
+      {
+        "id": 7,
+        "name": "Strasbourg"
+      },
+      {
+        "id": 8,
+        "name": "Montpellier"
+      },
+      {
+        "id": 9,
+        "name": "Bordeaux"
+      },
+      {
+        "id": 10,
+        "name": "Lille"
+      },
+      {
+        "id": 11,
+        "name": "Rennes"
+      },
+      {
+        "id": 12,
+        "name": "Reims"
+      },
+      {
+        "id": 13,
+        "name": "Cergy-Pontoise"
+      },
+      {
+        "id": 14,
+        "name": "Saint-Quentin-en-Yvelines"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "French",
+        "image": "fr.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "PayPal",
+        "image": "paypal.png",
+        "download": "https://www.paypal.com/fr/"
+      },
+      {
+        "id": 2,
+        "name": "Lydia",
+        "image": "lydia.png",
+        "download": "https://lydia-app.com/"
+      },
+      {
+        "id": 3,
+        "name": "Revolut",
+        "image": "revolut.png",
+        "download": "https://www.revolut.com/"
+      },
+      {
+        "id": 4,
+        "name": "N26",
+        "image": "n26.png",
+        "download": "https://n26.com/"
+      },
+      {
+        "id": 5,
+        "name": "Leetchi",
+        "image": "leetchi.png",
+        "download": "https://www.leetchi.com/"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "country_name": "Italy",
+    "image":"Italy.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Rome (Roma)"
+      },
+      {
+        "id": 2,
+        "name": "Milan (Milano)"
+      },
+      {
+        "id": 3,
+        "name": "Naples (Napoli)"
+      },
+      {
+        "id": 4,
+        "name": "Turin (Torino)"
+      },
+      {
+        "id": 5,
+        "name": "Palermo"
+      },
+      {
+        "id": 6,
+        "name": "Genoa (Genova)"
+      },
+      {
+        "id": 7,
+        "name": "Bologna"
+      },
+      {
+        "id": 8,
+        "name": "Florence (Firenze)"
+      },
+      {
+        "id": 9,
+        "name": "Bari"
+      },
+      {
+        "id": 10,
+        "name": "Catania"
+      },
+      {
+        "id": 11,
+        "name": "Venice (Venezia)"
+      },
+      {
+        "id": 12,
+        "name": "Verona"
+      },
+      {
+        "id": 13,
+        "name": "Messina"
+      },
+      {
+        "id": 14,
+        "name": "Padua (Padova)"
+      },
+      {
+        "id": 15,
+        "name": "Trieste"
+      },
+      {
+        "id": 16,
+        "name": "Brescia"
+      },
+      {
+        "id": 17,
+        "name": "Taranto"
+      },
+      {
+        "id": 18,
+        "name": "Parma"
+      },
+      {
+        "id": 19,
+        "name": "Prato"
+      },
+      {
+        "id": 20,
+        "name": "Modena"
+      },
+      {
+        "id": 21,
+        "name": "Reggio Calabria"
+      },
+      {
+        "id": 22,
+        "name": "Reggio Emilia"
+      },
+      {
+        "id": 23,
+        "name": "Perugia"
+      },
+      {
+        "id": 24,
+        "name": "Livorno"
+      },
+      {
+        "id": 25,
+        "name": "Ravenna"
+      },
+      {
+        "id": 26,
+        "name": "Cagliari"
+      },
+      {
+        "id": 27,
+        "name": "Foggia"
+      },
+      {
+        "id": 28,
+        "name": "Salerno"
+      },
+      {
+        "id": 29,
+        "name": "Rimini"
+      },
+      {
+        "id": 30,
+        "name": "Ferrara"
+      },
+      {
+        "id": 31,
+        "name": "Sassari"
+      },
+      {
+        "id": 32,
+        "name": "Syracuse (Siracusa)"
+      },
+      {
+        "id": 33,
+        "name": "Pescara"
+      },
+      {
+        "id": 34,
+        "name": "Latina"
+      },
+      {
+        "id": 35,
+        "name": "Monza"
+      },
+      {
+        "id": 36,
+        "name": "Bergamo"
+      },
+      {
+        "id": 37,
+        "name": "Forlì"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Italian",
+        "image": "it.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "PayPal",
+        "image": "paypal.png",
+        "download": "https://www.paypal.com/it/"
+      },
+      {
+        "id": 2,
+        "name": "Satispay",
+        "image": "satispay.png",
+        "download": "https://www.satispay.com/"
+      },
+      {
+        "id": 3,
+        "name": "HYPE",
+        "image": "hype.png",
+        "download": "https://www.hype.it/"
+      },
+      {
+        "id": 4,
+        "name": "Nexi",
+        "image": "nexi.png",
+        "download": "https://nexi.it/"
+      },
+      {
+        "id": 5,
+        "name": "PostePay",
+        "image": "postepay.png",
+        "download": "https://www.postepay.it/"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "country_name": "Canada",
+    "image":"canada.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Toronto, Ontario"
+      },
+      {
+        "id": 2,
+        "name": "Montreal, Quebec"
+      },
+      {
+        "id": 3,
+        "name": "Vancouver, British Columbia"
+      },
+      {
+        "id": 4,
+        "name": "Calgary, Alberta"
+      },
+      {
+        "id": 5,
+        "name": "Edmonton, Alberta"
+      },
+      {
+        "id": 6,
+        "name": "Ottawa, Ontario"
+      },
+      {
+        "id": 7,
+        "name": "Mississauga, Ontario"
+      },
+      {
+        "id": 8,
+        "name": "Winnipeg, Manitoba"
+      },
+      {
+        "id": 9,
+        "name": "Quebec City, Quebec"
+      },
+      {
+        "id": 10,
+        "name": "Hamilton, Ontario"
+      },
+      {
+        "id": 11,
+        "name": "Brampton, Ontario"
+      },
+      {
+        "id": 12,
+        "name": "Surrey, British Columbia"
+      },
+      {
+        "id": 13,
+        "name": "Laval, Quebec"
+      },
+      {
+        "id": 14,
+        "name": "Halifax, Nova Scotia"
+      },
+      {
+        "id": 15,
+        "name": "London, Ontario"
+      },
+      {
+        "id": 16,
+        "name": "Markham, Ontario"
+      },
+      {
+        "id": 17,
+        "name": "Vaughan, Ontario"
+      },
+      {
+        "id": 18,
+        "name": "Gatineau, Quebec"
+      },
+      {
+        "id": 19,
+        "name": "Longueuil, Quebec"
+      },
+      {
+        "id": 20,
+        "name": "Burnaby, British Columbia"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "English",
+        "image": "en.png"
+      },
+      {
+        "id": 2,
+        "name": "French",
+        "image": "fr.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "PayPal",
+        "image": "paypal.png",
+        "download": "https://www.paypal.com/ca/"
+      },
+      {
+        "id": 2,
+        "name": "Interac e-Transfer",
+        "image": "interacetransfer.png",
+        "download": "https://www.interac.ca/en/"
+      },
+      {
+        "id": 3,
+        "name": "Tangerine",
+        "image": "tangerine.png",
+        "download": "https://www.tangerine.ca/"
+      },
+      {
+        "id": 4,
+        "name": "RBC Wallet",
+        "image": "rbcwallet.jpg",
+        "download": "https://www.rbcroyalbank.com/"
+      },
+      {
+        "id": 5,
+        "name": "Scotiabank Mobile Banking",
+        "image": "scotiabankmobilebanking.png",
+        "download": "https://www.scotiabank.com/"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "country_name": "Australia",
+    "image":"australia.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Sydney"
+      },
+      {
+        "id": 2,
+        "name": "Melbourne"
+      },
+      {
+        "id": 3,
+        "name": "Brisbane"
+      },
+      {
+        "id": 4,
+        "name": "Perth"
+      },
+      {
+        "id": 5,
+        "name": "Adelaide"
+      },
+      {
+        "id": 6,
+        "name": "Gold Coast"
+      },
+      {
+        "id": 7,
+        "name": "Newcastle"
+      },
+      {
+        "id": 8,
+        "name": "Canberra"
+      },
+      {
+        "id": 9,
+        "name": "Wollongong"
+      },
+      {
+        "id": 10,
+        "name": "Sunshine Coast"
+      },
+      {
+        "id": 11,
+        "name": "Hobart"
+      },
+      {
+        "id": 12,
+        "name": "Geelong"
+      },
+      {
+        "id": 13,
+        "name": "Townsville"
+      },
+      {
+        "id": 14,
+        "name": "Cairns"
+      },
+      {
+        "id": 15,
+        "name": "Darwin"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "English",
+        "image": "en.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "PayPal",
+        "image": "paypal.png",
+        "download": "https://www.paypal.com/au/"
+      },
+      {
+        "id": 2,
+        "name": "Beem It",
+        "image": "beemit.png",
+        "download": "https://beemit.com.au/"
+      },
+      {
+        "id": 3,
+        "name": "PayID",
+        "image": "payid.png",
+        "download": "https://payid.com.au/"
+      },
+      {
+        "id": 4,
+        "name": "Osko",
+        "image": "osko.png",
+        "download": "https://www.osko.com.au/"
+      },
+      {
+        "id": 5,
+        "name": "Commonwealth Bank",
+        "image": "commonwealthbank.jpg",
+        "download": "https://www.commbank.com.au/"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "country_name": "Germany",
+    "image":"Germany.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Berlin"
+      },
+      {
+        "id": 2,
+        "name": "Hamburg"
+      },
+      {
+        "id": 3,
+        "name": "Munich (München)"
+      },
+      {
+        "id": 4,
+        "name": "Cologne (Köln)"
+      },
+      {
+        "id": 5,
+        "name": "Frankfurt am Main"
+      },
+      {
+        "id": 6,
+        "name": "Stuttgart"
+      },
+      {
+        "id": 7,
+        "name": "Düsseldorf"
+      },
+      {
+        "id": 8,
+        "name": "Dortmund"
+      },
+      {
+        "id": 9,
+        "name": "Essen"
+      },
+      {
+        "id": 10,
+        "name": "Leipzig"
+      },
+      {
+        "id": 11,
+        "name": "Bremen"
+      },
+      {
+        "id": 12,
+        "name": "Dresden"
+      },
+      {
+        "id": 13,
+        "name": "Hanover (Hannover)"
+      },
+      {
+        "id": 14,
+        "name": "Nuremberg (Nürnberg)"
+      },
+      {
+        "id": 15,
+        "name": "Duisburg"
+      },
+      {
+        "id": 16,
+        "name": "Bochum"
+      },
+      {
+        "id": 17,
+        "name": "Wuppertal"
+      },
+      {
+        "id": 18,
+        "name": "Bielefeld"
+      },
+      {
+        "id": 19,
+        "name": "Bonn"
+      },
+      {
+        "id": 20,
+        "name": "Münster"
+      },
+      {
+        "id": 21,
+        "name": "Karlsruhe"
+      },
+      {
+        "id": 22,
+        "name": "Mannheim"
+      },
+      {
+        "id": 23,
+        "name": "Augsburg"
+      },
+      {
+        "id": 24,
+        "name": "Wiesbaden"
+      },
+      {
+        "id": 25,
+        "name": "Gelsenkirchen"
+      },
+      {
+        "id": 26,
+        "name": "Mönchengladbach"
+      },
+      {
+        "id": 27,
+        "name": "Braunschweig"
+      },
+      {
+        "id": 28,
+        "name": "Chemnitz"
+      },
+      {
+        "id": 29,
+        "name": "Kiel"
+      },
+      {
+        "id": 30,
+        "name": "Aachen"
+      },
+      {
+        "id": 31,
+        "name": "Halle (Saale)"
+      },
+      {
+        "id": 32,
+        "name": "Magdeburg"
+      },
+      {
+        "id": 33,
+        "name": "Freiburg im Breisgau"
+      },
+      {
+        "id": 34,
+        "name": "Krefeld"
+      },
+      {
+        "id": 35,
+        "name": "Lübeck"
+      },
+      {
+        "id": 36,
+        "name": "Oberhausen"
+      },
+      {
+        "id": 37,
+        "name": "Erfurt"
+      },
+      {
+        "id": 38,
+        "name": "Mainz"
+      },
+      {
+        "id": 39,
+        "name": "Rostock"
+      },
+      {
+        "id": 40,
+        "name": "Kassel"
+      },
+      {
+        "id": 41,
+        "name": "Hagen"
+      },
+      {
+        "id": 42,
+        "name": "Hamm"
+      },
+      {
+        "id": 43,
+        "name": "Saarbrücken"
+      },
+      {
+        "id": 44,
+        "name": "Mülheim an der Ruhr"
+      },
+      {
+        "id": 45,
+        "name": "Potsdam"
+      },
+      {
+        "id": 46,
+        "name": "Ludwigshafen am Rhein"
+      },
+      {
+        "id": 47,
+        "name": "Oldenburg"
+      },
+      {
+        "id": 48,
+        "name": "Leverkusen"
+      },
+      {
+        "id": 49,
+        "name": "Osnabrück"
+      },
+      {
+        "id": 50,
+        "name": "Solingen"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "German",
+        "image": "de.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "PayPal",
+        "image": "paypal.png",
+        "download": "https://www.paypal.com/de/"
+      },
+      {
+        "id": 2,
+        "name": "N26",
+        "image": "n26.png",
+        "download": "https://n26.com/"
+      },
+      {
+        "id": 3,
+        "name": "Klarna",
+        "image": "klarna.png",
+        "download": "https://www.klarna.com/de/"
+      },
+      {
+        "id": 4,
+        "name": "Fidor Bank",
+        "image": "fidorbank.png",
+        "download": "https://www.fidor.de/"
+      },
+      {
+        "id": 5,
+        "name": "Sparkasse",
+        "image": "sparkasse.png",
+        "download": "https://www.sparkasse.de/"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "country_name": "South Korea",
+    "image":"korea.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Seoul"
+      },
+      {
+        "id": 2,
+        "name": "Busan"
+      },
+      {
+        "id": 3,
+        "name": "Incheon"
+      },
+      {
+        "id": 4,
+        "name": "Daegu"
+      },
+      {
+        "id": 5,
+        "name": "Daejeon"
+      },
+      {
+        "id": 6,
+        "name": "Gwangju"
+      },
+      {
+        "id": 7,
+        "name": "Ulsan"
+      },
+      {
+        "id": 8,
+        "name": "Suwon"
+      },
+      {
+        "id": 9,
+        "name": "Changwon"
+      },
+      {
+        "id": 10,
+        "name": "Seongnam"
+      },
+      {
+        "id": 11,
+        "name": "Goyang"
+      },
+      {
+        "id": 12,
+        "name": "Yongin"
+      },
+      {
+        "id": 13,
+        "name": "Bucheon"
+      },
+      {
+        "id": 14,
+        "name": "Ansan"
+      },
+      {
+        "id": 15,
+        "name": "Jeonju"
+      },
+      {
+        "id": 16,
+        "name": "Cheongju"
+      },
+      {
+        "id": 17,
+        "name": "Anyang"
+      },
+      {
+        "id": 18,
+        "name": "Uijeongbu"
+      },
+      {
+        "id": 19,
+        "name": "Namyangju"
+      },
+      {
+        "id": 20,
+        "name": "Gimhae"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Korean",
+        "image": "kr.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "KakaoPay",
+        "image": "kakaopay.png",
+        "download": "https://www.kakaopay.com/"
+      },
+      {
+        "id": 2,
+        "name": "Toss",
+        "image": "toss.png",
+        "download": "https://toss.im/"
+      },
+      {
+        "id": 3,
+        "name": "Naver Pay",
+        "image": "naverpay.png",
+        "download": "https://pay.naver.com/"
+      },
+      {
+        "id": 4,
+        "name": "Samsung Pay",
+        "image": "samsungpay.png",
+        "download": "https://www.samsung.com/sec/apps/mobile/samsungpay/"
+      },
+      {
+        "id": 5,
+        "name": "Woori WON Banking",
+        "image": "wooriwonbanking.png",
+        "download": "https://spot.wooribank.com/"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "country_name": "Japan",
+    "image":"Japan.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Tokyo"
+      },
+      {
+        "id": 2,
+        "name": "Yokohama"
+      },
+      {
+        "id": 3,
+        "name": "Osaka"
+      },
+      {
+        "id": 4,
+        "name": "Nagoya"
+      },
+      {
+        "id": 5,
+        "name": "Sapporo"
+      },
+      {
+        "id": 6,
+        "name": "Fukuoka"
+      },
+      {
+        "id": 7,
+        "name": "Kobe"
+      },
+      {
+        "id": 8,
+        "name": "Kyoto"
+      },
+      {
+        "id": 9,
+        "name": "Kawasaki"
+      },
+      {
+        "id": 10,
+        "name": "Saitama"
+      },
+      {
+        "id": 11,
+        "name": "Hiroshima"
+      },
+      {
+        "id": 12,
+        "name": "Sendai"
+      },
+      {
+        "id": 13,
+        "name": "Kitakyushu"
+      },
+      {
+        "id": 14,
+        "name": "Chiba"
+      },
+      {
+        "id": 15,
+        "name": "Sakai"
+      },
+      {
+        "id": 16,
+        "name": "Niigata"
+      },
+      {
+        "id": 17,
+        "name": "Hamamatsu"
+      },
+      {
+        "id": 18,
+        "name": "Shizuoka"
+      },
+      {
+        "id": 19,
+        "name": "Sagamihara"
+      },
+      {
+        "id": 20,
+        "name": "Okayama"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Japanese",
+        "image": "jp.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "LINE Pay",
+        "image": "linepay.png",
+        "download": "https://line.me/en/pay"
+      },
+      {
+        "id": 2,
+        "name": "Rakuten Pay",
+        "image": "rakutenpay.png",
+        "download": "https://pay.rakuten.co.jp/"
+      },
+      {
+        "id": 3,
+        "name": "PayPay",
+        "image": "paypay.png",
+        "download": "https://www.paypay.ne.jp/"
+      },
+      {
+        "id": 4,
+        "name": "Origami Pay",
+        "image": "origamipay.png",
+        "download": "https://origamipay.jp/"
+      },
+      {
+        "id": 5,
+        "name": "d Payment",
+        "image": "dpayment.png",
+        "download": "https://d-payment.nttdocomo.co.jp/"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "country_name": "Spain",
+    "image":"Spain.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Madrid (Capital)"
+      },
+      {
+        "id": 2,
+        "name": "Barcelona"
+      },
+      {
+        "id": 3,
+        "name": "Valencia"
+      },
+      {
+        "id": 4,
+        "name": "Seville (Sevilla)"
+      },
+      {
+        "id": 5,
+        "name": "Zaragoza"
+      },
+      {
+        "id": 6,
+        "name": "Málaga"
+      },
+      {
+        "id": 7,
+        "name": "Murcia"
+      },
+      {
+        "id": 8,
+        "name": "Palma de Mallorca"
+      },
+      {
+        "id": 9,
+        "name": "Bilbao"
+      },
+      {
+        "id": 10,
+        "name": "Alicante"
+      },
+      {
+        "id": 11,
+        "name": "Córdoba"
+      },
+      {
+        "id": 12,
+        "name": "Valladolid"
+      },
+      {
+        "id": 13,
+        "name": "Vigo"
+      },
+      {
+        "id": 14,
+        "name": "Gijón"
+      },
+      {
+        "id": 15,
+        "name": "L'Hospitalet de Llobregat"
+      },
+      {
+        "id": 16,
+        "name": "A Coruña"
+      },
+      {
+        "id": 17,
+        "name": "Vitoria-Gasteiz"
+      },
+      {
+        "id": 18,
+        "name": "Granada"
+      },
+      {
+        "id": 19,
+        "name": "Elche"
+      },
+      {
+        "id": 20,
+        "name": "Oviedo"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Spanish",
+        "image": "es.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Bizum",
+        "image": "bizum.png",
+        "download": "https://www.bizum.es/"
+      },
+      {
+        "id": 2,
+        "name": "PayPal",
+        "image": "paypal.png",
+        "download": "https://www.paypal.com/es/"
+      },
+      {
+        "id": 3,
+        "name": "BBVA Wallet",
+        "image": "bbvawallet.png",
+        "download": "https://www.bbva.es/"
+      },
+      {
+        "id": 4,
+        "name": "CaixaBank Pay",
+        "image": "caixabankpay.png",
+        "download": "https://www.caixabank.es/"
+      },
+      {
+        "id": 5,
+        "name": "Twyp",
+        "image": "twyp.jpg",
+        "download": "https://www.twyp.com/"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "country_name": "Sweden",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Stockholm (Capital)"
+      },
+      {
+        "id": 2,
+        "name": "Gothenburg (Göteborg)"
+      },
+      {
+        "id": 3,
+        "name": "Malmö"
+      },
+      {
+        "id": 4,
+        "name": "Uppsala"
+      },
+      {
+        "id": 5,
+        "name": "Linköping"
+      },
+      {
+        "id": 6,
+        "name": "Västerås"
+      },
+      {
+        "id": 7,
+        "name": "Örebro"
+      },
+      {
+        "id": 8,
+        "name": "Helsingborg"
+      },
+      {
+        "id": 9,
+        "name": "Jönköping"
+      },
+      {
+        "id": 10,
+        "name": "Norrköping"
+      },
+      {
+        "id": 11,
+        "name": "Lund"
+      },
+      {
+        "id": 12,
+        "name": "Umeå"
+      },
+      {
+        "id": 13,
+        "name": "Gävle"
+      },
+      {
+        "id": 14,
+        "name": "Borås"
+      },
+      {
+        "id": 15,
+        "name": "Eskilstuna"
+      },
+      {
+        "id": 16,
+        "name": "Södertälje"
+      },
+      {
+        "id": 17,
+        "name": "Karlstad"
+      },
+      {
+        "id": 18,
+        "name": "Täby"
+      },
+      {
+        "id": 19,
+        "name": "Växjö"
+      },
+      {
+        "id": 20,
+        "name": "Halmstad"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Swedish",
+        "image": "se.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Swish",
+        "image": "swish.jpg",
+        "download": "https://www.getswish.se/"
+      },
+      {
+        "id": 2,
+        "name": "Klarna",
+        "image": "klarna.png",
+        "download": "https://www.klarna.com/se/"
+      },
+      {
+        "id": 3,
+        "name": "iZettle",
+        "image": "izettle.png",
+        "download": "https://www.izettle.com/se"
+      },
+      {
+        "id": 4,
+        "name": "SEB",
+        "image": "seb.png",
+        "download": "https://seb.se/"
+      },
+      {
+        "id": 5,
+        "name": "Handelsbanken",
+        "image": "handelsbanken.png",
+        "download": "https://www.handelsbanken.se/"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "country_name": "Austria",
+    "image":"Austria.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Vienna"
+      },
+      {
+        "id": 2,
+        "name": "Graz"
+      },
+      {
+        "id": 3,
+        "name": "Linz"
+      },
+      {
+        "id": 4,
+        "name": "Salzburg"
+      },
+      {
+        "id": 5,
+        "name": "Innsbruck"
+      },
+      {
+        "id": 6,
+        "name": "Klagenfurt"
+      },
+      {
+        "id": 7,
+        "name": "Villach"
+      },
+      {
+        "id": 8,
+        "name": "Wels"
+      },
+      {
+        "id": 9,
+        "name": "Sankt Pölten"
+      },
+      {
+        "id": 10,
+        "name": "Dornbirn"
+      },
+      {
+        "id": 11,
+        "name": "Wiener Neustadt"
+      },
+      {
+        "id": 12,
+        "name": "Steyr"
+      },
+      {
+        "id": 13,
+        "name": "Feldkirch"
+      },
+      {
+        "id": 14,
+        "name": "Bregenz"
+      },
+      {
+        "id": 15,
+        "name": "Wolfsberg"
+      },
+      {
+        "id": 16,
+        "name": "Klosterneuburg"
+      },
+      {
+        "id": 17,
+        "name": "Leoben"
+      },
+      {
+        "id": 18,
+        "name": "Baden"
+      },
+      {
+        "id": 19,
+        "name": "Krems"
+      },
+      {
+        "id": 20,
+        "name": "Traun"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "German",
+        "image": "de.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Klarna",
+        "image": "klarna.png",
+        "download": "https://www.klarna.com/"
+      },
+      {
+        "id": 2,
+        "name": "Revolut",
+        "image": "revolut.png",
+        "download": "https://www.revolut.com/"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "country_name": "Bangladesh",
+    "image":"Bangladesh.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Dhaka"
+      },
+      {
+        "id": 2,
+        "name": "Chittagong"
+      },
+      {
+        "id": 3,
+        "name": "Khulna"
+      },
+      {
+        "id": 4,
+        "name": "Rajshahi"
+      },
+      {
+        "id": 5,
+        "name": "Sylhet"
+      },
+      {
+        "id": 6,
+        "name": "Barisal"
+      },
+      {
+        "id": 7,
+        "name": "Comilla"
+      },
+      {
+        "id": 8,
+        "name": "Narayanganj"
+      },
+      {
+        "id": 9,
+        "name": "Rangpur"
+      },
+      {
+        "id": 10,
+        "name": "Mymensingh"
+      },
+      {
+        "id": 11,
+        "name": "Gazipur"
+      },
+      {
+        "id": 12,
+        "name": "Tongi"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Bengali",
+        "image": "bd.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "bKash",
+        "image": "bkash.png",
+        "download": "https://www.bkash.com/"
+      },
+      {
+        "id": 2,
+        "name": "Rocket (by Dutch Bangla Bank)",
+        "image": "rocket.png",
+        "download": "https://www.dutchbanglabank.com/"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "country_name": "Belgium",
+    "image":"Belgium.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Brussels"
+      },
+      {
+        "id": 2,
+        "name": "Antwerp"
+      },
+      {
+        "id": 3,
+        "name": "Ghent"
+      },
+      {
+        "id": 4,
+        "name": "Charleroi"
+      },
+      {
+        "id": 5,
+        "name": "Liège"
+      },
+      {
+        "id": 6,
+        "name": "Bruges"
+      },
+      {
+        "id": 7,
+        "name": "Namur"
+      },
+      {
+        "id": 8,
+        "name": "Leuven"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Dutch",
+        "image": "dut.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Bancontact",
+        "image": "bancontact.png",
+        "download": "https://www.bancontact.com/"
+      },
+      {
+        "id": 2,
+        "name": "Payconiq",
+        "image": "payconiq.png",
+        "download": "https://www.payconiq.be/"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "country_name": "Bolivia",
+    "image":"Belgium.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Santa Cruz de la Sierra"
+      },
+      {
+        "id": 2,
+        "name": "La Paz"
+      },
+      {
+        "id": 3,
+        "name": "El Alto"
+      },
+      {
+        "id": 4,
+        "name": "Cochabamba"
+      },
+      {
+        "id": 5,
+        "name": "Oruro"
+      },
+      {
+        "id": 6,
+        "name": "Sucre"
+      },
+      {
+        "id": 7,
+        "name": "Tarija"
+      },
+      {
+        "id": 8,
+        "name": "Potosí"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Spanish",
+        "image": "es.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Tigo Money Bolivia",
+        "image": "tigomoneybolivia.png",
+        "download": "https://www.tigo.com.bo/"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "country_name": "Czech Republic",
+    "image":"Czech.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Prague (Praha)"
+      },
+      {
+        "id": 2,
+        "name": "Brno"
+      },
+      {
+        "id": 3,
+        "name": "Ostrava"
+      },
+      {
+        "id": 4,
+        "name": "Plzeň"
+      },
+      {
+        "id": 5,
+        "name": "Liberec"
+      },
+      {
+        "id": 6,
+        "name": "Olomouc"
+      },
+      {
+        "id": 7,
+        "name": "České Budějovice"
+      },
+      {
+        "id": 8,
+        "name": "Hradec Králové"
+      },
+      {
+        "id": 9,
+        "name": "Ústí nad Labem"
+      },
+      {
+        "id": 10,
+        "name": "Pardubice"
+      },
+      {
+        "id": 11,
+        "name": "Zlín"
+      },
+      {
+        "id": 12,
+        "name": "Havířov"
+      },
+      {
+        "id": 13,
+        "name": "Kladno"
+      },
+      {
+        "id": 14,
+        "name": "Most"
+      },
+      {
+        "id": 15,
+        "name": "Karviná"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Czech",
+        "image": "cz.jpg"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Twisto",
+        "image": "twisto.png",
+        "download": "https://www.twisto.cz/"
+      },
+      {
+        "id": 2,
+        "name": "Fio banka",
+        "image": "fiobanka.png",
+        "download": "https://www.fio.cz/"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "country_name": "Denmark",
+    "image":"Denmark.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Copenhagen (København)"
+      },
+      {
+        "id": 2,
+        "name": "Aarhus"
+      },
+      {
+        "id": 3,
+        "name": "Odense"
+      },
+      {
+        "id": 4,
+        "name": "Aalborg"
+      },
+      {
+        "id": 5,
+        "name": "Frederiksberg"
+      },
+      {
+        "id": 6,
+        "name": "Esbjerg"
+      },
+      {
+        "id": 7,
+        "name": "Randers"
+      },
+      {
+        "id": 8,
+        "name": "Kolding"
+      },
+      {
+        "id": 9,
+        "name": "Horsens"
+      },
+      {
+        "id": 10,
+        "name": "Vejle"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Danish",
+        "image": "dk.jpg"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "MobilePay",
+        "image": "mobilepay.png",
+        "download": "https://www.mobilepay.dk/"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "country_name": "Ecuador",
+    "image":"Ecuador.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Guayaquil"
+      },
+      {
+        "id": 2,
+        "name": "Quito"
+      },
+      {
+        "id": 3,
+        "name": "Cuenca"
+      },
+      {
+        "id": 4,
+        "name": "Santo Domingo"
+      },
+      {
+        "id": 5,
+        "name": "Machala"
+      },
+      {
+        "id": 6,
+        "name": "Durán"
+      },
+      {
+        "id": 7,
+        "name": "Portoviejo"
+      },
+      {
+        "id": 8,
+        "name": "Manta"
+      },
+      {
+        "id": 9,
+        "name": "Loja"
+      },
+      {
+        "id": 10,
+        "name": "Ambato"
+      },
+      {
+        "id": 11,
+        "name": "Esmeraldas"
+      },
+      {
+        "id": 12,
+        "name": "Quevedo"
+      },
+      {
+        "id": 13,
+        "name": "Milagro"
+      },
+      {
+        "id": 14,
+        "name": "Ibarra"
+      },
+      {
+        "id": 15,
+        "name": "Riobamba"
+      },
+      {
+        "id": 16,
+        "name": "Latacunga"
+      },
+      {
+        "id": 17,
+        "name": "Tulcán"
+      },
+      {
+        "id": 18,
+        "name": "Babahoyo"
+      },
+      {
+        "id": 19,
+        "name": "La Libertad"
+      },
+      {
+        "id": 20,
+        "name": "Puyo"
+      },
+      {
+        "id": 21,
+        "name": "Daule"
+      },
+      {
+        "id": 22,
+        "name": "Pasaje"
+      },
+      {
+        "id": 23,
+        "name": "Santa Elena"
+      },
+      {
+        "id": 24,
+        "name": "Santa Rosa"
+      },
+      {
+        "id": 25,
+        "name": "El Carmen"
+      },
+      {
+        "id": 26,
+        "name": "Chone"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Spanish",
+        "image": "es.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Banco Pichincha",
+        "image": "bancopichincha.png",
+        "download": "https://www.pichincha.com/"
+      },
+      {
+        "id": 2,
+        "name": "Banco Guayaquil",
+        "image": "bancoguayaquil.png",
+        "download": "https://www.bancoguayaquil.com/"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "country_name": "France",
+    "image":"France.png",
+    "languages": [
+      {
+        "id": 1,
+        "name": "French",
+        "image": "fr.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Lydia",
+        "image": "lydia.png",
+        "download": "https://lydia-app.com/"
+      },
+      {
+        "id": 2,
+        "name": "Le Pot Commun",
+        "image": "lepotcommun.png",
+        "download": "https://www.lepotcommun.fr/"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "country_name": "Greece",
+    "image":"Greece.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Athens"
+      },
+      {
+        "id": 2,
+        "name": "Thessaloniki"
+      },
+      {
+        "id": 3,
+        "name": "Piraeus"
+      },
+      {
+        "id": 4,
+        "name": "Patras"
+      },
+      {
+        "id": 5,
+        "name": "Heraklion (Iraklio)"
+      },
+      {
+        "id": 6,
+        "name": "Larissa"
+      },
+      {
+        "id": 7,
+        "name": "Volos"
+      },
+      {
+        "id": 8,
+        "name": "Rhodes (Rodos)"
+      },
+      {
+        "id": 9,
+        "name": "Ioannina"
+      },
+      {
+        "id": 10,
+        "name": "Chania"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Greek",
+        "image": "gr.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Viva Wallet",
+        "image": "vivawallet.png",
+        "download": "https://www.vivawallet.com/"
+      },
+      {
+        "id": 2,
+        "name": "Piraeus Bank",
+        "image": "piraeusbank.png",
+        "download": "https://www.piraeusbank.gr/"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "country_name": "Hungary",
+    "image":"Hungary.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Budapest"
+      },
+      {
+        "id": 2,
+        "name": "Debrecen"
+      },
+      {
+        "id": 3,
+        "name": "Szeged"
+      },
+      {
+        "id": 4,
+        "name": "Miskolc"
+      },
+      {
+        "id": 5,
+        "name": "Pécs"
+      },
+      {
+        "id": 6,
+        "name": "Győr"
+      },
+      {
+        "id": 7,
+        "name": "Nyíregyháza"
+      },
+      {
+        "id": 8,
+        "name": "Kecskemét"
+      },
+      {
+        "id": 9,
+        "name": "Székesfehérvár"
+      },
+      {
+        "id": 10,
+        "name": "Szombathely"
+      },
+      {
+        "id": 11,
+        "name": "Pécsvárad"
+      },
+      {
+        "id": 12,
+        "name": "Eger"
+      },
+      {
+        "id": 13,
+        "name": "Veszprém"
+      },
+      {
+        "id": 14,
+        "name": "Zalaegerszeg"
+      },
+      {
+        "id": 15,
+        "name": "Tatabánya"
+      },
+      {
+        "id": 16,
+        "name": "Sopron"
+      },
+      {
+        "id": 17,
+        "name": "Kaposvár"
+      },
+      {
+        "id": 18,
+        "name": "Békéscsaba"
+      },
+      {
+        "id": 19,
+        "name": "Érd"
+      },
+      {
+        "id": 20,
+        "name": "Vác"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Hungarian",
+        "image": "hu.jpg"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Barion",
+        "image": "barion.jpg",
+        "download": "https://www.barion.com/"
+      },
+      {
+        "id": 2,
+        "name": "OTPay",
+        "image": "otpay.png",
+        "download": "https://www.otpbank.hu/"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "country_name": "Luxembourg",
+    "image":"Luxembourg.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Luxembourg City"
+      },
+      {
+        "id": 2,
+        "name": "Esch-sur-Alzette"
+      },
+      {
+        "id": 3,
+        "name": "Differdange"
+      },
+      {
+        "id": 4,
+        "name": "Dudelange"
+      },
+      {
+        "id": 5,
+        "name": "Ettelbruck"
+      },
+      {
+        "id": 6,
+        "name": "Diekirch"
+      },
+      {
+        "id": 7,
+        "name": "Wiltz"
+      },
+      {
+        "id": 8,
+        "name": "Rumelange"
+      },
+      {
+        "id": 9,
+        "name": "Echternach"
+      },
+      {
+        "id": 10,
+        "name": "Grevenmacher"
+      },
+      {
+        "id": 11,
+        "name": "Remich"
+      },
+      {
+        "id": 12,
+        "name": "Vianden"
+      },
+      {
+        "id": 13,
+        "name": "Beaufort"
+      },
+      {
+        "id": 14,
+        "name": "Redange-sur-Attert"
+      },
+      {
+        "id": 15,
+        "name": "Mersch"
+      },
+      {
+        "id": 16,
+        "name": "Clervaux"
+      },
+      {
+        "id": 17,
+        "name": "Capellen"
+      },
+      {
+        "id": 18,
+        "name": "Schifflange"
+      },
+      {
+        "id": 19,
+        "name": "Betzdorf"
+      },
+      {
+        "id": 20,
+        "name": "Petange"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Luxembourgish",
+        "image": "lu.jpg"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Digicash",
+        "image": "digicash.png",
+        "download": "https://www.digicash.lu/"
+      },
+      {
+        "id": 2,
+        "name": "PayPal",
+        "image": "paypal.png",
+        "download": "https://www.paypal.com/lu/"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "country_name": "Mexico",
+    "image":"Mexico.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Mexico City"
+      },
+      {
+        "id": 2,
+        "name": "Guadalajara"
+      },
+      {
+        "id": 3,
+        "name": "Monterrey"
+      },
+      {
+        "id": 4,
+        "name": "Puebla"
+      },
+      {
+        "id": 5,
+        "name": "Tijuana"
+      },
+      {
+        "id": 6,
+        "name": "León"
+      },
+      {
+        "id": 7,
+        "name": "Ciudad Juárez"
+      },
+      {
+        "id": 8,
+        "name": "Torreón"
+      },
+      {
+        "id": 9,
+        "name": "San Luis Potosí"
+      },
+      {
+        "id": 10,
+        "name": "Querétaro"
+      },
+      {
+        "id": 11,
+        "name": "Mérida"
+      },
+      {
+        "id": 12,
+        "name": "Mexicali"
+      },
+      {
+        "id": 13,
+        "name": "Aguascalientes"
+      },
+      {
+        "id": 14,
+        "name": "Acapulco"
+      },
+      {
+        "id": 15,
+        "name": "Morelia"
+      },
+      {
+        "id": 16,
+        "name": "Veracruz"
+      },
+      {
+        "id": 17,
+        "name": "Chihuahua"
+      },
+      {
+        "id": 18,
+        "name": "Hermosillo"
+      },
+      {
+        "id": 19,
+        "name": "Culiacán"
+      },
+      {
+        "id": 20,
+        "name": "Saltillo"
+      },
+      {
+        "id": 21,
+        "name": "Guadalupe"
+      },
+      {
+        "id": 22,
+        "name": "Toluca"
+      },
+      {
+        "id": 23,
+        "name": "Reynosa"
+      },
+      {
+        "id": 24,
+        "name": "Tuxtla Gutiérrez"
+      },
+      {
+        "id": 25,
+        "name": "Durango"
+      },
+      {
+        "id": 26,
+        "name": "Zapopan"
+      },
+      {
+        "id": 27,
+        "name": "Matamoros"
+      },
+      {
+        "id": 28,
+        "name": "Mazatlán"
+      },
+      {
+        "id": 29,
+        "name": "Cancún"
+      },
+      {
+        "id": 30,
+        "name": "Xalapa"
+      },
+      {
+        "id": 31,
+        "name": "Villahermosa"
+      },
+      {
+        "id": 32,
+        "name": "Oaxaca"
+      },
+      {
+        "id": 33,
+        "name": "Cuernavaca"
+      },
+      {
+        "id": 34,
+        "name": "Nuevo Laredo"
+      },
+      {
+        "id": 35,
+        "name": "Ensenada"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Spanish",
+        "image": "es.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "MercadoPago",
+        "image": "mercadopago.png",
+        "download": "https://www.mercadopago.com.mx/"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "country_name": "Netherlands",
+    "image":"Netherlands.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Amsterdam"
+      },
+      {
+        "id": 2,
+        "name": "Rotterdam"
+      },
+      {
+        "id": 3,
+        "name": "The Hague (Den Haag)"
+      },
+      {
+        "id": 4,
+        "name": "Utrecht"
+      } 
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Dutch",
+        "image": "dut.png"
+      },
+      {
+        "id": 2,
+        "name": "English",
+        "image": "en.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Tikkie",
+        "image": "tikkie.png",
+        "download": "https://tikkie.me/"
+      },
+      {
+        "id": 2,
+        "name": "iDEAL",
+        "image": "ideal.png",
+        "download": "https://www.ideal.nl/en/"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "country_name": "Peru",
+    "image":"Peru.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Lima (Capital)"
+      },
+      {
+        "id": 2,
+        "name": "Arequipa"
+      },
+      {
+        "id": 3,
+        "name": "Trujillo"
+      },
+      {
+        "id": 4,
+        "name": "Chiclayo"
+      },
+      {
+        "id": 5,
+        "name": "Callao"
+      },
+      {
+        "id": 6,
+        "name": "Iquitos"
+      },
+      {
+        "id": 7,
+        "name": "Piura"
+      },
+      {
+        "id": 8,
+        "name": "Cusco"
+      },
+      {
+        "id": 9,
+        "name": "Chimbote"
+      },
+      {
+        "id": 10,
+        "name": "Huancayo"
+      },
+      {
+        "id": 11,
+        "name": "Tacna"
+      },
+      {
+        "id": 12,
+        "name": "Pucallpa"
+      },
+      {
+        "id": 13,
+        "name": "Juliaca"
+      },
+      {
+        "id": 14,
+        "name": "Ica"
+      },
+      {
+        "id": 15,
+        "name": "Sullana"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Spanish",
+        "image": "es.png"
+      },
+      {
+        "id": 2,
+        "name": "Quechua",
+        "image": "Quechua_pe.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Yape",
+        "image": "yape.png",
+        "download": "https://yape.bcp.com.pe/"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "country_name": "Switzerland",
+    "image":"Switzerland.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Zurich (Zürich)"
+      },
+      {
+        "id": 2,
+        "name": "Geneva (Genève)"
+      },
+      {
+        "id": 3,
+        "name": "Basel"
+      },
+      {
+        "id": 4,
+        "name": "Lausanne"
+      },
+      {
+        "id": 5,
+        "name": "Bern"
+      },
+      {
+        "id": 6,
+        "name": "Winterthur"
+      },
+      {
+        "id": 7,
+        "name": "Lucerne (Luzern)"
+      },
+      {
+        "id": 8,
+        "name": "St. Gallen"
+      },
+      {
+        "id": 9,
+        "name": "Lugano"
+      },
+      {
+        "id": 10,
+        "name": "Biel/Bienne"
+      },
+      {
+        "id": 11,
+        "name": "Thun"
+      },
+      {
+        "id": 12,
+        "name": "Köniz"
+      },
+      {
+        "id": 13,
+        "name": "La Chaux-de-Fonds"
+      },
+      {
+        "id": 14,
+        "name": "Schaffhausen"
+      },
+      {
+        "id": 15,
+        "name": "Fribourg"
+      },
+      {
+        "id": 16,
+        "name": "Vernier"
+      },
+      {
+        "id": 17,
+        "name": "Chur"
+      },
+      {
+        "id": 18,
+        "name": "Neuchâtel"
+      },
+      {
+        "id": 19,
+        "name": "Uster"
+      },
+      {
+        "id": 20,
+        "name": "Sion"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Romansh",
+        "image": "ch.jpg"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "TWINT",
+        "image": "twint.png",
+        "download": "https://www.twint.ch/"
+      },
+      {
+        "id": 2,
+        "name": "UBS Mobile Banking",
+        "image": "ubsmobilebanking.png",
+        "download": "https://www.ubs.com/"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "country_name": "Paraguay",
+    "image":"Paraguay.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Asuncion"
+      },
+      {
+        "id": 2,
+        "name": "Ciudad del Este"
+      },
+      {
+        "id": 3,
+        "name": "San Lorenzo"
+      },
+      {
+        "id": 4,
+        "name": "Luque"
+      },
+      {
+        "id": 5,
+        "name": "Capiatá"
+      },
+      {
+        "id": 6,
+        "name": "Lambaré"
+      },
+      {
+        "id": 7,
+        "name": "Fernando de la Mora"
+      },
+      {
+        "id": 8,
+        "name": "Limpio"
+      },
+      {
+        "id": 9,
+        "name": "Ñemby"
+      },
+      {
+        "id": 10,
+        "name": "Encarnación"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Spanish",
+        "image": "es.png"
+      },
+      {
+        "id": 2,
+        "name": "Guarani",
+        "image": "py.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Tigo Money Paraguay",
+        "image": "tigomoneyparaguay.png",
+        "download": "https://www.tigo.com.py/"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "country_name": "Slovakia",
+    "image":"Slovakia.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Bratislava"
+      },
+      {
+        "id": 2,
+        "name": "Košice"
+      },
+      {
+        "id": 3,
+        "name": "Prešov"
+      },
+      {
+        "id": 4,
+        "name": "Žilina"
+      },
+      {
+        "id": 5,
+        "name": "Nitra"
+      },
+      {
+        "id": 6,
+        "name": "Banská Bystrica"
+      },
+      {
+        "id": 7,
+        "name": "Trnava"
+      },
+      {
+        "id": 8,
+        "name": "Martin"
+      },
+      {
+        "id": 9,
+        "name": "Trenčín"
+      },
+      {
+        "id": 10,
+        "name": "Poprad"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Slovak",
+        "image": "sk.jpg"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "TrustPay",
+        "image": "trustpay.png",
+        "download": "https://www.trustpay.eu/"
+      },
+      {
+        "id": 2,
+        "name": "Slovenská sporiteľňa",
+        "image": "slovenskasp.png",
+        "download": "https://www.slsp.sk/"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "country_name": "Slovenia",
+    "image":"Slovenia.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Ljubljana (Capital)"
+      },
+      {
+        "id": 2,
+        "name": "Maribor"
+      },
+      {
+        "id": 3,
+        "name": "Celje"
+      },
+      {
+        "id": 4,
+        "name": "Kranj"
+      },
+      {
+        "id": 5,
+        "name": "Velenje"
+      },
+      {
+        "id": 6,
+        "name": "Koper"
+      },
+      {
+        "id": 7,
+        "name": "Novo Mesto"
+      },
+      {
+        "id": 8,
+        "name": "Ptuj"
+      },
+      {
+        "id": 9,
+        "name": "Trbovlje"
+      },
+      {
+        "id": 10,
+        "name": "Kamnik"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Slovenian",
+        "image": "si.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "VALÚ",
+        "image": "valu.png",
+        "download": "https://www.valu.si/"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "country_name": "Uganda",
+    "image":"Uganda.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Kampala (Capital)"
+      },
+      {
+        "id": 2,
+        "name": "Mukono"
+      },
+      {
+        "id": 3,
+        "name": "Jinja"
+      },
+      {
+        "id": 4,
+        "name": "Mbale"
+      },
+      {
+        "id": 5,
+        "name": "Mbarara"
+      },
+      {
+        "id": 6,
+        "name": "Gulu"
+      },
+      {
+        "id": 7,
+        "name": "Lira"
+      },
+      {
+        "id": 8,
+        "name": "Entebbe"
+      },
+      {
+        "id": 9,
+        "name": "Masaka"
+      },
+      {
+        "id": 10,
+        "name": "Kasese"
+      },
+      {
+        "id": 11,
+        "name": "Soroti"
+      },
+      {
+        "id": 12,
+        "name": "Kabale"
+      },
+      {
+        "id": 13,
+        "name": "Fort Portal"
+      },
+      {
+        "id": 14,
+        "name": "Arua"
+      },
+      {
+        "id": 15,
+        "name": "Hoima"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "English",
+        "image": "en.png"
+      },
+      {
+        "id": 2,
+        "name": "Swahili",
+        "image": "ug.jpg"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "MTN Mobile Money",
+        "image": "mtnmobilemoney.png",
+        "download": "https://www.mtn.co.ug/"
+      },
+      {
+        "id": 2,
+        "name": "Airtel Money",
+        "image": "airtelmoney.png",
+        "download": "https://africa.airtel.com/"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "country_name": "Uruguay",
+    "image":"Uruguay.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Montevideo"
+      },
+      {
+        "id": 2,
+        "name": "Salto"
+      },
+      {
+        "id": 3,
+        "name": "Ciudad de la Costa"
+      },
+      {
+        "id": 4,
+        "name": "Paysandú"
+      },
+      {
+        "id": 5,
+        "name": "Las Piedras"
+      },
+      {
+        "id": 6,
+        "name": "Rivera"
+      },
+      {
+        "id": 7,
+        "name": "Maldonado"
+      },
+      {
+        "id": 8,
+        "name": "Tacuarembó"
+      },
+      {
+        "id": 9,
+        "name": "Melo"
+      },
+      {
+        "id": 10,
+        "name": "Mercedes"
+      },
+      {
+        "id": 11,
+        "name": "Artigas"
+      },
+      {
+        "id": 12,
+        "name": "San José de Mayo"
+      },
+      {
+        "id": 13,
+        "name": "Florida"
+      },
+      {
+        "id": 14,
+        "name": "Treinta y Tres"
+      },
+      {
+        "id": 15,
+        "name": "Minas"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Spanish",
+        "image": "es.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Prex",
+        "image": "prex.png",
+        "download": "https://www.prex.com.uy/"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "country_name": "El Salvador",
+    "image":"El_Salvador.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "San Salvador"
+      },
+      {
+        "id": 2,
+        "name": "Soyapango"
+      },
+      {
+        "id": 3,
+        "name": "Santa Ana"
+      },
+      {
+        "id": 4,
+        "name": "San Miguel"
+      },
+      {
+        "id": 5,
+        "name": "Mejicanos"
+      },
+      {
+        "id": 6,
+        "name": "Santa Tecla"
+      },
+      {
+        "id": 7,
+        "name": "Apopa"
+      },
+      {
+        "id": 8,
+        "name": "Delgado"
+      },
+      {
+        "id": 9,
+        "name": "Ahuachapán"
+      },
+      {
+        "id": 10,
+        "name": "Ilopango"
+      },
+      {
+        "id": 11,
+        "name": "San Martin"
+      },
+      {
+        "id": 12,
+        "name": "Sonsonate"
+      },
+      {
+        "id": 13,
+        "name": "San Marcos"
+      },
+      {
+        "id": 14,
+        "name": "Usulután"
+      },
+      {
+        "id": 15,
+        "name": "Cojutepeque"
+      },
+      {
+        "id": 16,
+        "name": "Cuscatancingo"
+      },
+      {
+        "id": 17,
+        "name": "Zacatecoluca"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Spanish",
+        "image": "es.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Tigo Money El Salvador",
+        "image": "tigomoneyelsalvador.png",
+        "download": "https://www.tigo.com.s"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "country_name": "Kyrgyzstan",
+    "image":"Kyrgyzstan.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Bishkek (capital)"
+      },
+      {
+        "id": 2,
+        "name": "Osh"
+      },
+      {
+        "id": 3,
+        "name": "Jalal-Abad"
+      },
+      {
+        "id": 4,
+        "name": "Karakol"
+      },
+      {
+        "id": 5,
+        "name": "Tokmok"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Kyrgyz",
+        "image": "kg.png"
+      },
+      {
+        "id": 2,
+        "name": "Russian",
+        "image": "ru.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Elsom",
+        "image": "elsom.png",
+        "download": "https://www.elsom.kg/"
+      },
+      {
+        "id": 2,
+        "name": "O!Dengi",
+        "image": "odengi.png",
+        "download": "https://www.o.kg/"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "country_name": "Nigeria",
+    "image":"Nigeria.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Lagos"
+      },
+      {
+        "id": 2,
+        "name": "Kano"
+      },
+      {
+        "id": 3,
+        "name": "Ibadan"
+      },
+      {
+        "id": 4,
+        "name": "Abuja"
+      },
+      {
+        "id": 5,
+        "name": "Port Harcourt"
+      },
+      {
+        "id": 6,
+        "name": "Benin City"
+      },
+      {
+        "id": 7,
+        "name": "Kaduna"
+      },
+      {
+        "id": 8,
+        "name": "Zaria"
+      },
+      {
+        "id": 9,
+        "name": "Maiduguri"
+      },
+      {
+        "id": 10,
+        "name": "Aba"
+      },
+      {
+        "id": 11,
+        "name": "Jos"
+      },
+      {
+        "id": 12,
+        "name": "Ilorin"
+      },
+      {
+        "id": 13,
+        "name": "Oyo"
+      },
+      {
+        "id": 14,
+        "name": "Enugu"
+      },
+      {
+        "id": 15,
+        "name": "Abeokuta"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "English",
+        "image": "en.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Paga",
+        "image": "paga.png",
+        "download": "https://www.mypaga.com/"
+      },
+      {
+        "id": 2,
+        "name": "Flutterwave",
+        "image": "flutterwave.png",
+        "download": "https://www.flutterwave.com/"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "country_name": "Sierra Leone",
+    "image":"Sierra_Leone.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Freetown (Capital)"
+      },
+      {
+        "id": 2,
+        "name": "Bo"
+      },
+      {
+        "id": 3,
+        "name": "Kenema"
+      },
+      {
+        "id": 4,
+        "name": "Makeni"
+      },
+      {
+        "id": 5,
+        "name": "Koidu"
+      },
+      {
+        "id": 6,
+        "name": "Waterloo"
+      },
+      {
+        "id": 7,
+        "name": "Port Loko"
+      },
+      {
+        "id": 8,
+        "name": "Lunsar"
+      },
+      {
+        "id": 9,
+        "name": "Kabala"
+      },
+      {
+        "id": 10,
+        "name": "Lungi"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "English",
+        "image": "en.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Africell Money",
+        "image": "africellmoney.jpg",
+        "download": "https://www.africell.sl/"
+      },
+      {
+        "id": 2,
+        "name": "Orange Money",
+        "image": "orangemoney.png",
+        "download": "https://www.orange.com.sl/"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "country_name": "Senegal",
+    "image":"Senegal.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Dakar"
+      },
+      {
+        "id": 2,
+        "name": "Touba"
+      },
+      {
+        "id": 3,
+        "name": "Pikine"
+      },
+      {
+        "id": 4,
+        "name": "Thies"
+      },
+      {
+        "id": 5,
+        "name": "Rufisque"
+      },
+      {
+        "id": 6,
+        "name": "Saint-Louis"
+      },
+      {
+        "id": 7,
+        "name": "Mbour"
+      },
+      {
+        "id": 8,
+        "name": "Kaolack"
+      },
+      {
+        "id": 9,
+        "name": "Ziguinchor"
+      },
+      {
+        "id": 10,
+        "name": "Diourbel"
+      },
+      {
+        "id": 11,
+        "name": "Louga"
+      },
+      {
+        "id": 12,
+        "name": "Tambacounda"
+      },
+      {
+        "id": 13,
+        "name": "Kolda"
+      },
+      {
+        "id": 14,
+        "name": "Matam"
+      },
+      {
+        "id": 15,
+        "name": "Kaffrine"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "French",
+        "image": "fr.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Orange Money Senegal",
+        "image": "orangemoney.png",
+        "download": "https://www.orange.sn/"
+      },
+      {
+        "id": 2,
+        "name": "Wari",
+        "image": "wari.png",
+        "download": "https://www.wari.com/"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "country_name": "Zambia",
+    "image":"Zambia.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Lusaka"
+      },
+      {
+        "id": 2,
+        "name": "Kitwe"
+      },
+      {
+        "id": 3,
+        "name": "Ndola"
+      },
+      {
+        "id": 4,
+        "name": "Kabwe"
+      },
+      {
+        "id": 5,
+        "name": "Chingola"
+      },
+      {
+        "id": 6,
+        "name": "Mufulira"
+      },
+      {
+        "id": 7,
+        "name": "Livingstone"
+      },
+      {
+        "id": 8,
+        "name": "Luanshya"
+      },
+      {
+        "id": 9,
+        "name": "Kasama"
+      },
+      {
+        "id": 10,
+        "name": "Chipata"
+      },
+      {
+        "id": 11,
+        "name": "Solwezi"
+      },
+      {
+        "id": 12,
+        "name": "Mansa"
+      },
+      {
+        "id": 13,
+        "name": "Mongu"
+      },
+      {
+        "id": 14,
+        "name": "Serenje"
+      },
+      {
+        "id": 15,
+        "name": "Mpika"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "English",
+        "image": "en.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "MTN Mobile Money",
+        "image": "mtnmobilemoney.png",
+        "download": "https://www.mtn.co.zm/"
+      },
+      {
+        "id": 2,
+        "name": "Airtel Money",
+        "image": "airtelmoney.png",
+        "download": "https://www.airtel.co.zm/"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "country_name": "Bulgaria",
+    "image":"Bulgaria.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Sofia"
+      },
+      {
+        "id": 2,
+        "name": "Plovdiv"
+      },
+      {
+        "id": 3,
+        "name": "Varna"
+      },
+      {
+        "id": 4,
+        "name": "Burgas"
+      },
+      {
+        "id": 5,
+        "name": "Ruse"
+      },
+      {
+        "id": 6,
+        "name": "Stara Zagora"
+      },
+      {
+        "id": 7,
+        "name": "Pleven"
+      },
+      {
+        "id": 8,
+        "name": "Sliven"
+      },
+      {
+        "id": 9,
+        "name": "Dobrich"
+      },
+      {
+        "id": 10,
+        "name": "Shumen"
+      },
+      {
+        "id": 11,
+        "name": "Pernik"
+      },
+      {
+        "id": 12,
+        "name": "Haskovo"
+      },
+      {
+        "id": 13,
+        "name": "Yambol"
+      },
+      {
+        "id": 14,
+        "name": "Pazardzhik"
+      },
+      {
+        "id": 15,
+        "name": "Blagoevgrad"
+      },
+      {
+        "id": 16,
+        "name": "Veliko Tarnovo"
+      },
+      {
+        "id": 17,
+        "name": "Vratsa"
+      },
+      {
+        "id": 18,
+        "name": "Gabrovo"
+      },
+      {
+        "id": 19,
+        "name": "Asenovgrad"
+      },
+      {
+        "id": 20,
+        "name": "Vidin"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Bulgarian",
+        "image": "bg.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "EasyPay",
+        "image": "easypay.png",
+        "download": "https://www.easypay.bg/"
+      },
+      {
+        "id": 2,
+        "name": "Revolut",
+        "image": "revolut.png",
+        "download": "https://www.revolut.com/"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "country_name": "U.A.E",
+    "image":"uae.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Dubai"
+      },
+      {
+        "id": 2,
+        "name": "Abu Dhabi"
+      },
+      {
+        "id": 3,
+        "name": "Sharjah"
+      },
+      {
+        "id": 4,
+        "name": "Al Ain"
+      },
+      {
+        "id": 5,
+        "name": "Ajman"
+      },
+      {
+        "id": 6,
+        "name": "Ras Al Khaimah"
+      },
+      {
+        "id": 7,
+        "name": "Fujairah"
+      },
+      {
+        "id": 8,
+        "name": "Umm Al Quwain"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Arabic",
+        "image": "arabic.png"
+      },
+      {
+        "id": 2,
+        "name": "English",
+        "image": "en.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Beam",
+        "image": "beam.png",
+        "download": "https://www.beamwallet.com/"
+      },
+      {
+        "id": 2,
+        "name": "PayBy",
+        "image": "payby.png",
+        "download": "https://www.payby.com/"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "country_name": "Romania",
+    "image":"Romania.png",
+    "languages": [
+      {
+        "id": 1,
+        "name": "Romanian",
+        "image": "romanian.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Revolut",
+        "image": "revolut.png",
+        "download": "https://www.revolut.com/"
+      },
+      {
+        "id": 2,
+        "name": "George by BCR",
+        "image": "george_bcr.png",
+        "download": "https://www.bcr.ro/"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "country_name": "Mozambique",
+    "image":"Mozambique.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Maputo (capital)"
+      },
+      {
+        "id": 2,
+        "name": "Matola"
+      },
+      {
+        "id": 3,
+        "name": "Beira"
+      },
+      {
+        "id": 4,
+        "name": "Nampula"
+      },
+      {
+        "id": 5,
+        "name": "Chimoio"
+      },
+      {
+        "id": 6,
+        "name": "Nacala"
+      },
+      {
+        "id": 7,
+        "name": "Quelimane"
+      },
+      {
+        "id": 8,
+        "name": "Tete"
+      },
+      {
+        "id": 9,
+        "name": "Lichinga"
+      },
+      {
+        "id": 10,
+        "name": "Pemba"
+      },
+      {
+        "id": 11,
+        "name": "Xai-Xai"
+      },
+      {
+        "id": 12,
+        "name": "Maxixe"
+      },
+      {
+        "id": 13,
+        "name": "Ressano Garcia"
+      },
+      {
+        "id": 14,
+        "name": "Inhambane"
+      },
+      {
+        "id": 15,
+        "name": "Moatize"
+      },
+      {
+        "id": 16,
+        "name": "Chokwe"
+      },
+      {
+        "id": 17,
+        "name": "Cuamba"
+      },
+      {
+        "id": 18,
+        "name": "Manica"
+      },
+      {
+        "id": 19,
+        "name": "Dondo"
+      },
+      {
+        "id": 20,
+        "name": "Mocimboa"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Portuguese",
+        "image": "portuguese.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "mKesh",
+        "image": "mkesh.png",
+        "download": "https://www.mcel.co.mz/"
+      },
+      {
+        "id": 2,
+        "name": "M-Pesa",
+        "image": "mpesa.png",
+        "download": "https://www.vm.co.mz/"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "country_name": "Philippines",
+    "image":"philippines.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Quezon City"
+      },
+      {
+        "id": 2,
+        "name": "Manila"
+      },
+      {
+        "id": 3,
+        "name": "Caloocan"
+      },
+      {
+        "id": 4,
+        "name": "Davao City"
+      },
+      {
+        "id": 5,
+        "name": "Cebu City"
+      },
+      {
+        "id": 6,
+        "name": "Zamboanga City"
+      },
+      {
+        "id": 7,
+        "name": "Taguig"
+      },
+      {
+        "id": 8,
+        "name": "Antipolo"
+      },
+      {
+        "id": 9,
+        "name": "Pasig"
+      },
+      {
+        "id": 10,
+        "name": "Cagayan de Oro"
+      },
+      {
+        "id": 11,
+        "name": "Parañaque"
+      },
+      {
+        "id": 12,
+        "name": "Valenzuela"
+      },
+      {
+        "id": 13,
+        "name": "Las Piñas"
+      },
+      {
+        "id": 14,
+        "name": "Makati"
+      },
+      {
+        "id": 15,
+        "name": "Bacolod"
+      },
+      {
+        "id": 16,
+        "name": "General Santos"
+      },
+      {
+        "id": 17,
+        "name": "Marikina"
+      },
+      {
+        "id": 18,
+        "name": "Dasmariñas"
+      },
+      {
+        "id": 19,
+        "name": "Muntinlupa"
+      },
+      {
+        "id": 20,
+        "name": "Iloilo City"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Filipino",
+        "image": "filipino.png"
+      },
+      {
+        "id": 2,
+        "name": "English",
+        "image": "en.png"
+      },
+      {
+        "id": 3,
+        "name": "Tagalog",
+        "image": "tagalog.jpg"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "GCash",
+        "image": "gcash.png",
+        "download": "https://www.gcash.com/"
+      },
+      {
+        "id": 2,
+        "name": "PayMaya",
+        "image": "paymaya.png",
+        "download": "https://www.paymaya.com/"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "country_name": "Afghanistan",
+    "image":"Afghanistan.png",
+    "cities": [
+      {
+        "id": 1,
+        "name": "Ayzabad"
+      },
+      {
+        "id": 2,
+        "name": "Baghlān"
+      },
+      {
+        "id": 3,
+        "name": "Pul-e Khumrī"
+      },
+      {
+        "id": 4,
+        "name": "Balkh"
+      },
+      {
+        "id": 5,
+        "name": "Mazār-e Sharīf"
+      },
+      {
+        "id": 6,
+        "name": "Bāmyān"
+      },
+      {
+        "id": 7,
+        "name": "Herāt"
+      },
+      {
+        "id": 8,
+        "name": "Kunduz"
+      },
+      {
+        "id": 9,
+        "name": "Kabul"
+      },
+      {
+        "id": 10,
+        "name": "Jalālābād"
+      },
+      {
+        "id": 11,
+        "name": "Taloqan"
+      },
+      {
+        "id": 12,
+        "name": "Kandahār"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Pashto",
+        "image": "pashto.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Dari",
+        "image": "pashto.jpg"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "My Money",
+        "image": "mymoney.png",
+        "download": "https://www.afghan-wireless.com/"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "country_name": "Tanzania",
+    "image":"Tanzania.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Dar es Salaam"
+      },
+      {
+        "id": 2,
+        "name": "Mwanza"
+      },
+      {
+        "id": 3,
+        "name": "Arusha"
+      },
+      {
+        "id": 4,
+        "name": "Dodoma"
+      },
+      {
+        "id": 5,
+        "name": "Mbeya"
+      },
+      {
+        "id": 6,
+        "name": "Morogoro"
+      },
+      {
+        "id": 7,
+        "name": "Tanga"
+      },
+      {
+        "id": 8,
+        "name": "Kahama"
+      },
+      {
+        "id": 9,
+        "name": "Zanzibar City"
+      },
+      {
+        "id": 10,
+        "name": "Tabora"
+      },
+      {
+        "id": 11,
+        "name": "Moshi"
+      },
+      {
+        "id": 12,
+        "name": "Songea"
+      },
+      {
+        "id": 13,
+        "name": "Musoma"
+      },
+      {
+        "id": 14,
+        "name": "Iringa"
+      },
+      {
+        "id": 15,
+        "name": "Shinyanga"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Swahili",
+        "image": "swahili.png"
+      },
+      {
+        "id": 2,
+        "name": "English",
+        "image": "en.png"
+      },
+      {
+        "id": 3,
+        "name": "Kiswahili",
+        "image": "kiswahili.jpg"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Vodacom M-Pesa",
+        "image": "vodacom_mpesa.png",
+        "download": "https://vodacom.co.tz/"
+      },
+      {
+        "id": 2,
+        "name": "Tigo Pesa",
+        "image": "tigo_pesa.png",
+        "download": "https://www.tigo.co.tz/"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "country_name": "Vietnam",
+    "image":"Vietnam.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Ho Chi Minh City"
+      },
+      {
+        "id": 2,
+        "name": "Hanoi"
+      },
+      {
+        "id": 3,
+        "name": "Da Nang"
+      },
+      {
+        "id": 4,
+        "name": "Hai Phong"
+      },
+      {
+        "id": 5,
+        "name": "Can Tho"
+      },
+      {
+        "id": 6,
+        "name": "Bien Hoa"
+      },
+      {
+        "id": 7,
+        "name": "Nha Trang"
+      },
+      {
+        "id": 8,
+        "name": "Hue"
+      },
+      {
+        "id": 9,
+        "name": "Vinh"
+      },
+      {
+        "id": 10,
+        "name": "Thai Nguyen"
+      },
+      {
+        "id": 11,
+        "name": "Nam Dinh"
+      },
+      {
+        "id": 12,
+        "name": "Ha Long"
+      },
+      {
+        "id": 13,
+        "name": "Buon Ma Thuot"
+      },
+      {
+        "id": 14,
+        "name": "Qui Nhon"
+      },
+      {
+        "id": 15,
+        "name": "Vung Tau"
+      },
+      {
+        "id": 16,
+        "name": "Rach Gia"
+      },
+      {
+        "id": 17,
+        "name": "Long Xuyen"
+      },
+      {
+        "id": 18,
+        "name": "Hoi An"
+      },
+      {
+        "id": 19,
+        "name": "My Tho"
+      },
+      {
+        "id": 20,
+        "name": "Phan Thiet"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Vietnamese",
+        "image": "vietnamese.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Momo",
+        "image": "momo.png",
+        "download": "https://www.momo.vn/"
+      },
+      {
+        "id": 2,
+        "name": "ZaloPay",
+        "image": "zalopay.png",
+        "download": "https://zalopay.vn/"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "country_name": "Iraq",
+    "image":"Iraq.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Baghdad (Capital)"
+      },
+      {
+        "id": 2,
+        "name": "Basra"
+      },
+      {
+        "id": 3,
+        "name": "Mosul"
+      },
+      {
+        "id": 4,
+        "name": "Erbil"
+      },
+      {
+        "id": 5,
+        "name": "Najaf"
+      },
+      {
+        "id": 6,
+        "name": "Karbala"
+      },
+      {
+        "id": 7,
+        "name": "Kirkuk"
+      },
+      {
+        "id": 8,
+        "name": "Hilla"
+      },
+      {
+        "id": 9,
+        "name": "Sulaymaniyah"
+      },
+      {
+        "id": 10,
+        "name": "Diwaniyah"
+      },
+      {
+        "id": 11,
+        "name": "Ramadi"
+      },
+      {
+        "id": 12,
+        "name": "Kut"
+      },
+      {
+        "id": 13,
+        "name": "Baqubah"
+      },
+      {
+        "id": 14,
+        "name": "Amara"
+      },
+      {
+        "id": 15,
+        "name": "Samawah"
+      },
+      {
+        "id": 16,
+        "name": "Samarra"
+      },
+      {
+        "id": 17,
+        "name": "Fallujah"
+      },
+      {
+        "id": 18,
+        "name": "Tikrit"
+      },
+      {
+        "id": 19,
+        "name": "Nasiriyah"
+      },
+      {
+        "id": 20,
+        "name": "Amarah"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Arabic",
+        "image": "arabic.png"
+      },
+      {
+        "id": 2,
+        "name": "Kurdish",
+        "image": "arabic.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "ZainCash",
+        "image": "zaincash.png",
+        "download": "https://www.zaincash.iq/"
+      },
+      {
+        "id": 2,
+        "name": "AsiaHawala",
+        "image": "asiahawala.jpg",
+        "download": "https://asiahawala.com/"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "country_name": "Argentina",
+    "image":"Argentina.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Buenos Aires (Capital Federal)"
+      },
+      {
+        "id": 2,
+        "name": "Córdoba"
+      },
+      {
+        "id": 3,
+        "name": "Rosario"
+      },
+      {
+        "id": 4,
+        "name": "Mendoza"
+      },
+      {
+        "id": 5,
+        "name": "San Miguel de Tucumán"
+      },
+      {
+        "id": 6,
+        "name": "La Plata"
+      },
+      {
+        "id": 7,
+        "name": "Mar del Plata"
+      },
+      {
+        "id": 8,
+        "name": "Salta"
+      },
+      {
+        "id": 9,
+        "name": "Santa Fe"
+      },
+      {
+        "id": 10,
+        "name": "San Juan"
+      },
+      {
+        "id": 11,
+        "name": "Resistencia"
+      },
+      {
+        "id": 12,
+        "name": "Santiago del Estero"
+      },
+      {
+        "id": 13,
+        "name": "Corrientes"
+      },
+      {
+        "id": 14,
+        "name": "Neuquén"
+      },
+      {
+        "id": 15,
+        "name": "Bahía Blanca"
+      },
+      {
+        "id": 16,
+        "name": "Paraná"
+      },
+      {
+        "id": 17,
+        "name": "Posadas"
+      },
+      {
+        "id": 18,
+        "name": "Formosa"
+      },
+      {
+        "id": 19,
+        "name": "San Salvador de Jujuy"
+      },
+      {
+        "id": 20,
+        "name": "Quilmes"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Spanish",
+        "image": "es.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "MercadoPago",
+        "image": "mercadopago.png",
+        "download": "https://www.mercadopago.com.ar/"
+      },
+      {
+        "id": 2,
+        "name": "Ualá",
+        "image": "uala.png",
+        "download": "https://uala.com.ar/"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "country_name": "Poland",
+    "image":"Poland.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Warsaw (Warszawa) - The capital city"
+      },
+      {
+        "id": 2,
+        "name": "Kraków"
+      },
+      {
+        "id": 3,
+        "name": "Łódź"
+      },
+      {
+        "id": 4,
+        "name": "Wrocław"
+      },
+      {
+        "id": 5,
+        "name": "Poznań"
+      },
+      {
+        "id": 6,
+        "name": "Gdańsk"
+      },
+      {
+        "id": 7,
+        "name": "Szczecin"
+      },
+      {
+        "id": 8,
+        "name": "Bydgoszcz"
+      },
+      {
+        "id": 9,
+        "name": "Lublin"
+      },
+      {
+        "id": 10,
+        "name": "Katowice"
+      },
+      {
+        "id": 11,
+        "name": "Białystok"
+      },
+      {
+        "id": 12,
+        "name": "Gdynia"
+      },
+      {
+        "id": 13,
+        "name": "Częstochowa"
+      },
+      {
+        "id": 14,
+        "name": "Sosnowiec"
+      },
+      {
+        "id": 15,
+        "name": "Radom"
+      },
+      {
+        "id": 16,
+        "name": "Kielce"
+      },
+      {
+        "id": 17,
+        "name": "Gliwice"
+      },
+      {
+        "id": 18,
+        "name": "Toruń"
+      },
+      {
+        "id": 19,
+        "name": "Zielona Góra"
+      },
+      {
+        "id": 20,
+        "name": "Opole"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Polish",
+        "image": "polish.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "BLIK",
+        "image": "blik.png",
+        "download": "https://www.blik.com/"
+      },
+      {
+        "id": 2,
+        "name": "Przelewy24",
+        "image": "przelewy24.png",
+        "download": "https://www.przelewy24.pl/"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "country_name": "Ukraine",
+    "image":"Ukraine.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Kyiv",
+        "description": "The capital and largest city."
+      },
+      {
+        "id": 2,
+        "name": "Kharkiv"
+      },
+      {
+        "id": 3,
+        "name": "Dnipro"
+      },
+      {
+        "id": 4,
+        "name": "Odessa"
+      },
+      {
+        "id": 5,
+        "name": "Donetsk"
+      },
+      {
+        "id": 6,
+        "name": "Zaporizhzhia"
+      },
+      {
+        "id": 7,
+        "name": "Lviv"
+      },
+      {
+        "id": 8,
+        "name": "Kryvyi Rih"
+      },
+      {
+        "id": 9,
+        "name": "Mykolaiv"
+      },
+      {
+        "id": 10,
+        "name": "Mariupol"
+      },
+      {
+        "id": 11,
+        "name": "Luhansk"
+      },
+      {
+        "id": 12,
+        "name": "Vinnytsia"
+      },
+      {
+        "id": 13,
+        "name": "Kherson"
+      },
+      {
+        "id": 14,
+        "name": "Poltava"
+      },
+      {
+        "id": 15,
+        "name": "Chernihiv"
+      },
+      {
+        "id": 16,
+        "name": "Cherkasy"
+      },
+      {
+        "id": 17,
+        "name": "Sumy"
+      },
+      {
+        "id": 18,
+        "name": "Zhytomyr"
+      },
+      {
+        "id": 19,
+        "name": "Khmelnytskyi"
+      },
+      {
+        "id": 20,
+        "name": "Rivne"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Ukrainian",
+        "image": "ukrainian.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Privat24",
+        "image": "privat24.jpg",
+        "download": "https://privat24.ua/"
+      },
+      {
+        "id": 2,
+        "name": "Monobank",
+        "image": "monobank.jpg",
+        "download": "https://www.monobank.ua/"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "country_name": "Turkey",
+    "image":"Turkey.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Istanbul"
+      },
+      {
+        "id": 2,
+        "name": "Ankara"
+      },
+      {
+        "id": 3,
+        "name": "Izmir"
+      },
+      {
+        "id": 4,
+        "name": "Bursa"
+      },
+      {
+        "id": 5,
+        "name": "Adana"
+      },
+      {
+        "id": 6,
+        "name": "Gaziantep"
+      },
+      {
+        "id": 7,
+        "name": "Konya"
+      },
+      {
+        "id": 8,
+        "name": "Antalya"
+      },
+      {
+        "id": 9,
+        "name": "Diyarbakir"
+      },
+      {
+        "id": 10,
+        "name": "Mersin"
+      },
+      {
+        "id": 11,
+        "name": "Kayseri"
+      },
+      {
+        "id": 12,
+        "name": "Eskisehir"
+      },
+      {
+        "id": 13,
+        "name": "Denizli"
+      },
+      {
+        "id": 14,
+        "name": "Samsun"
+      },
+      {
+        "id": 15,
+        "name": "Malatya"
+      },
+      {
+        "id": 16,
+        "name": "Kahramanmaras"
+      },
+      {
+        "id": 17,
+        "name": "Erzurum"
+      },
+      {
+        "id": 18,
+        "name": "Van"
+      },
+      {
+        "id": 19,
+        "name": "Sivas"
+      },
+      {
+        "id": 20,
+        "name": "Elazig"
+      },
+      {
+        "id": 21,
+        "name": "Manisa"
+      },
+      {
+        "id": 22,
+        "name": "Trabzon"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Turkish",
+        "image": "turkish.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Papara",
+        "image": "papara.png",
+        "download": "https://www.papara.com/"
+      },
+      {
+        "id": 2,
+        "name": "BKM Express",
+        "image": "bkmexpress.png",
+        "download": "https://www.bkm.com.tr/"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "country_name": "Saudi Arabia",
+    "image":"Saudi_Arabia.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Riyadh"
+      },
+      {
+        "id": 2,
+        "name": "Jeddah"
+      },
+      {
+        "id": 3,
+        "name": "Mecca"
+      },
+      {
+        "id": 4,
+        "name": "Medina"
+      },
+      {
+        "id": 5,
+        "name": "Dammam"
+      },
+      {
+        "id": 6,
+        "name": "Taif"
+      },
+      {
+        "id": 7,
+        "name": "Buraidah"
+      },
+      {
+        "id": 8,
+        "name": "Khobar"
+      },
+      {
+        "id": 9,
+        "name": "Tabuk"
+      },
+      {
+        "id": 10,
+        "name": "Abha"
+      },
+      {
+        "id": 11,
+        "name": "Hail"
+      },
+      {
+        "id": 12,
+        "name": "Jubail"
+      },
+      {
+        "id": 13,
+        "name": "Najran"
+      },
+      {
+        "id": 14,
+        "name": "Yanbu"
+      },
+      {
+        "id": 15,
+        "name": "Al Kharj"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Arabic",
+        "image": "arabic.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "STCPay",
+        "image": "stcpay.jpg",
+        "download": "https://www.stcpay.com.sa/"
+      },
+      {
+        "id": 2,
+        "name": "HalalaH",
+        "image": "halalah.png",
+        "download": "https://www.halalah.sa/"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "country_name": "India",
+    "image":"India.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Mumbai"
+      },
+      {
+        "id": 2,
+        "name": "Delhi"
+      },
+      {
+        "id": 3,
+        "name": "Bangalore"
+      },
+      {
+        "id": 4,
+        "name": "Kolkata"
+      },
+      {
+        "id": 5,
+        "name": "Chennai"
+      },
+      {
+        "id": 6,
+        "name": "Ahmedabad"
+      },
+      {
+        "id": 7,
+        "name": "Hyderabad"
+      },
+      {
+        "id": 8,
+        "name": "Pune"
+      },
+      {
+        "id": 9,
+        "name": "Surat"
+      },
+      {
+        "id": 10,
+        "name": "Kanpur"
+      },
+      {
+        "id": 11,
+        "name": "Jaipur"
+      },
+      {
+        "id": 12,
+        "name": "Navi Mumbai"
+      },
+      {
+        "id": 13,
+        "name": "Lucknow"
+      },
+      {
+        "id": 14,
+        "name": "Nagpur"
+      },
+      {
+        "id": 15,
+        "name": "Indore"
+      },
+      {
+        "id": 16,
+        "name": "Patna"
+      },
+      {
+        "id": 17,
+        "name": "Bhopal"
+      },
+      {
+        "id": 18,
+        "name": "Ludhiana"
+      },
+      {
+        "id": 19,
+        "name": "Tirunelveli"
+      },
+      {
+        "id": 20,
+        "name": "Agra"
+      },
+      {
+        "id": 21,
+        "name": "Vadodara"
+      },
+      {
+        "id": 22,
+        "name": "Gorakhpur"
+      },
+      {
+        "id": 23,
+        "name": "Nashik"
+      },
+      {
+        "id": 24,
+        "name": "Meerut"
+      },
+      {
+        "id": 25,
+        "name": "Faridabad"
+      },
+      {
+        "id": 26,
+        "name": "Rajkot"
+      },
+      {
+        "id": 27,
+        "name": "Varanasi"
+      },
+      {
+        "id": 28,
+        "name": "Srinagar"
+      },
+      {
+        "id": 29,
+        "name": "Aurangabad"
+      },
+      {
+        "id": 30,
+        "name": "Dhanbad"
+      },
+      {
+        "id": 31,
+        "name": "Amritsar"
+      },
+      {
+        "id": 32,
+        "name": "Allahabad (Prayagraj)"
+      },
+      {
+        "id": 33,
+        "name": "Ranchi"
+      },
+      {
+        "id": 34,
+        "name": "Howrah"
+      },
+      {
+        "id": 35,
+        "name": "Coimbatore"
+      },
+      {
+        "id": 36,
+        "name": "Jabalpur"
+      },
+      {
+        "id": 37,
+        "name": "Gwalior"
+      },
+      {
+        "id": 38,
+        "name": "Vijayawada"
+      },
+      {
+        "id": 39,
+        "name": "Jodhpur"
+      },
+      {
+        "id": 40,
+        "name": "Madurai"
+      },
+      {
+        "id": 41,
+        "name": "Raipur"
+      },
+      {
+        "id": 42,
+        "name": "Kota"
+      },
+      {
+        "id": 43,
+        "name": "Guwahati"
+      },
+      {
+        "id": 44,
+        "name": "Chandigarh"
+      },
+      {
+        "id": 45,
+        "name": "Thiruvananthapuram"
+      },
+      {
+        "id": 46,
+        "name": "Solapur"
+      },
+      {
+        "id": 47,
+        "name": "Tiruchirappalli"
+      },
+      {
+        "id": 48,
+        "name": "Bareilly"
+      },
+      {
+        "id": 49,
+        "name": "Moradabad"
+      },
+      {
+        "id": 50,
+        "name": "Mysore (Mysuru)"
+      },
+      {
+        "id": 51,
+        "name": "Bhubaneswar"
+      },
+      {
+        "id": 52,
+        "name": "Salem"
+      },
+      {
+        "id": 53,
+        "name": "Warangal"
+      },
+      {
+        "id": 54,
+        "name": "Guntur"
+      },
+      {
+        "id": 55,
+        "name": "Bhiwandi"
+      },
+      {
+        "id": 56,
+        "name": "Saharanpur"
+      },
+      {
+        "id": 57,
+        "name": "Gorakhpur"
+      },
+      {
+        "id": 58,
+        "name": "Bikaner"
+      },
+      {
+        "id": 59,
+        "name": "Amravati"
+      },
+      {
+        "id": 60,
+        "name": "Noida"
+      },
+      {
+        "id": 61,
+        "name": "Jamshedpur"
+      },
+      {
+        "id": 62,
+        "name": "Bhilai"
+      },
+      {
+        "id": 63,
+        "name": "Cuttack"
+      },
+      {
+        "id": 64,
+        "name": "Firozabad"
+      },
+      {
+        "id": 65,
+        "name": "Kochi"
+      },
+      {
+        "id": 66,
+        "name": "Nellore"
+      },
+      {
+        "id": 67,
+        "name": "Bhavnagar"
+      },
+      {
+        "id": 68,
+        "name": "Dehradun"
+      },
+      {
+        "id": 69,
+        "name": "Durgapur"
+      },
+      {
+        "id": 70,
+        "name": "Asansol"
+      },
+      {
+        "id": 71,
+        "name": "Nanded"
+      },
+      {
+        "id": 72,
+        "name": "Kolhapur"
+      },
+      {
+        "id": 73,
+        "name": "Ajmer"
+      },
+      {
+        "id": 74,
+        "name": "Gulbarga (Kalaburagi)"
+      },
+      {
+        "id": 75,
+        "name": "Jamnagar"
+      },
+      {
+        "id": 76,
+        "name": "Ujjain"
+      },
+      {
+        "id": 77,
+        "name": "Loni"
+      },
+      {
+        "id": 78,
+        "name": "Siliguri"
+      },
+      {
+        "id": 79,
+        "name": "Jhansi"
+      },
+      {
+        "id": 80,
+        "name": "Ulhasnagar"
+      },
+      {
+        "id": 81,
+        "name": "Jammu"
+      },
+      {
+        "id": 82,
+        "name": "Sangli-Miraj & Kupwad"
+      },
+      {
+        "id": 83,
+        "name": "Mangalore"
+      },
+      {
+        "id": 84,
+        "name": "Erode"
+      },
+      {
+        "id": 85,
+        "name": "Belgaum"
+      },
+      {
+        "id": 86,
+        "name": "Ambattur"
+      },
+      {
+        "id": 87,
+        "name": "Tirupur"
+      },
+      {
+        "id": 88,
+        "name": "Malegaon"
+      },
+      {
+        "id": 89,
+        "name": "Gaya"
+      },
+      {
+        "id": 90,
+        "name": "Jalgaon"
+      },
+      {
+        "id": 91,
+        "name": "Udaipur"
+      },
+      {
+        "id": 92,
+        "name": "Maheshtala"
+      },
+      {
+        "id": 93,
+        "name": "Davanagere"
+      },
+      {
+        "id": 94,
+        "name": "Kozhikode"
+      },
+      {
+        "id": 95,
+        "name": "Kurnool"
+      },
+      {
+        "id": 96,
+        "name": "Rajpur Sonarpur"
+      },
+      {
+        "id": 97,
+        "name": "Rajahmundry"
+      },
+      {
+        "id": 98,
+        "name": "Bokaro"
+      },
+      {
+        "id": 99,
+        "name": "South Dumdum"
+      },
+      {
+        "id": 100,
+        "name": "Bellary"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Hindi",
+        "image": "hindi.png"
+      },
+      {
+        "id": 2,
+        "name": "English",
+        "image": "en.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Paytm",
+        "image": "paytm.png",
+        "download": "https://www.paytm.com/"
+      },
+      {
+        "id": 2,
+        "name": "PhonePe",
+        "image": "phonepe.jpg",
+        "download": "https://www.phonepe.com/"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "country_name": "Thailand",
+    "image":"Thailand.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Bangkok"
+      },
+      {
+        "id": 2,
+        "name": "Nonthaburi"
+      },
+      {
+        "id": 3,
+        "name": "Pak Kret"
+      },
+      {
+        "id": 4,
+        "name": "Hat Yai"
+      },
+      {
+        "id": 5,
+        "name": "Chiang Mai"
+      },
+      {
+        "id": 6,
+        "name": "Udon Thani"
+      },
+      {
+        "id": 7,
+        "name": "Nakhon Ratchasima"
+      },
+      {
+        "id": 8,
+        "name": "Nakhon Sawan"
+      },
+      {
+        "id": 9,
+        "name": "Songkhla"
+      },
+      {
+        "id": 10,
+        "name": "Pattaya"
+      },
+      {
+        "id": 11,
+        "name": "Surat Thani"
+      },
+      {
+        "id": 12,
+        "name": "Ubon Ratchathani"
+      },
+      {
+        "id": 13,
+        "name": "Khon Kaen"
+      },
+      {
+        "id": 14,
+        "name": "Chonburi"
+      },
+      {
+        "id": 15,
+        "name": "Nakhon Si Thammarat"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Thai",
+        "image": "thai.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "TrueMoney Wallet",
+        "image": "truemoney.png",
+        "download": "https://www.truemoney.com/"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "country_name": "Colombia",
+    "image":"Colombia.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Bogotá"
+      },
+      {
+        "id": 2,
+        "name": "Medellín"
+      },
+      {
+        "id": 3,
+        "name": "Cali"
+      },
+      {
+        "id": 4,
+        "name": "Barranquilla"
+      },
+      {
+        "id": 5,
+        "name": "Cartagena"
+      },
+      {
+        "id": 6,
+        "name": "Cúcuta"
+      },
+      {
+        "id": 7,
+        "name": "Bucaramanga"
+      },
+      {
+        "id": 8,
+        "name": "Pereira"
+      },
+      {
+        "id": 9,
+        "name": "Santa Marta"
+      },
+      {
+        "id": 10,
+        "name": "Ibagué"
+      },
+      {
+        "id": 11,
+        "name": "Pasto"
+      },
+      {
+        "id": 12,
+        "name": "Manizales"
+      },
+      {
+        "id": 13,
+        "name": "Villavicencio"
+      },
+      {
+        "id": 14,
+        "name": "Neiva"
+      },
+      {
+        "id": 15,
+        "name": "Soledad"
+      },
+      {
+        "id": 16,
+        "name": "Valledupar"
+      },
+      {
+        "id": 17,
+        "name": "Armenia"
+      },
+      {
+        "id": 18,
+        "name": "Montería"
+      },
+      {
+        "id": 19,
+        "name": "Sincelejo"
+      },
+      {
+        "id": 20,
+        "name": "Popayán"
+      },
+      {
+        "id": 21,
+        "name": "Palmira"
+      },
+      {
+        "id": 22,
+        "name": "Bello"
+      },
+      {
+        "id": 23,
+        "name": "Tunja"
+      },
+      {
+        "id": 24,
+        "name": "Buenaventura"
+      },
+      {
+        "id": 25,
+        "name": "Florencia"
+      },
+      {
+        "id": 26,
+        "name": "Girardot"
+      },
+      {
+        "id": 27,
+        "name": "Malambo"
+      },
+      {
+        "id": 28,
+        "name": "Pitalito"
+      },
+      {
+        "id": 29,
+        "name": "Itagüí"
+      },
+      {
+        "id": 30,
+        "name": "Ríohacha"
+      },
+      {
+        "id": 31,
+        "name": "Envigado"
+      },
+      {
+        "id": 32,
+        "name": "Dosquebradas"
+      },
+      {
+        "id": 33,
+        "name": "Buga"
+      },
+      {
+        "id": 34,
+        "name": "Tumaco"
+      },
+      {
+        "id": 35,
+        "name": "Apartadó"
+      },
+      {
+        "id": 36,
+        "name": "Soacha"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Spanish",
+        "image": "es.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Nequi",
+        "image": "nequi.png",
+        "download": "https://www.nequi.com.co/"
+      },
+      {
+        "id": 2,
+        "name": "DaviPlata",
+        "image": "daviplata.jpg",
+        "download": "https://www.davivienda.com/"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "country_name": "Indonesia",
+    "image":"Indonesia.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Jakarta"
+      },
+      {
+        "id": 2,
+        "name": "Surabaya"
+      },
+      {
+        "id": 3,
+        "name": "Bandung"
+      },
+      {
+        "id": 4,
+        "name": "Medan"
+      },
+      {
+        "id": 5,
+        "name": "Semarang"
+      },
+      {
+        "id": 6,
+        "name": "Makassar"
+      },
+      {
+        "id": 7,
+        "name": "Palembang"
+      },
+      {
+        "id": 8,
+        "name": "Tangerang"
+      },
+      {
+        "id": 9,
+        "name": "South Tangerang"
+      },
+      {
+        "id": 10,
+        "name": "Bekasi"
+      },
+      {
+        "id": 11,
+        "name": "Depok"
+      },
+      {
+        "id": 12,
+        "name": "Bandar Lampung"
+      },
+      {
+        "id": 13,
+        "name": "Bogor"
+      },
+      {
+        "id": 14,
+        "name": "Padang"
+      },
+      {
+        "id": 15,
+        "name": "Pekanbaru"
+      },
+      {
+        "id": 16,
+        "name": "Denpasar"
+      },
+      {
+        "id": 17,
+        "name": "Malang"
+      },
+      {
+        "id": 18,
+        "name": "Samarinda"
+      },
+      {
+        "id": 19,
+        "name": "Batam"
+      },
+      {
+        "id": 20,
+        "name": "Pontianak"
+      },
+      {
+        "id": 21,
+        "name": "Balikpapan"
+      },
+      {
+        "id": 22,
+        "name": "Jambi"
+      },
+      {
+        "id": 23,
+        "name": "Yogyakarta"
+      },
+      {
+        "id": 24,
+        "name": "Cimahi"
+      },
+      {
+        "id": 25,
+        "name": "Banjarmasin"
+      },
+      {
+        "id": 26,
+        "name": "Surakarta (Solo)"
+      },
+      {
+        "id": 27,
+        "name": "Mataram"
+      },
+      {
+        "id": 28,
+        "name": "Manado"
+      },
+      {
+        "id": 29,
+        "name": "Cirebon"
+      },
+      {
+        "id": 30,
+        "name": "Kupang"
+      },
+      {
+        "id": 31,
+        "name": "Tasikmalaya"
+      },
+      {
+        "id": 32,
+        "name": "Palu"
+      },
+      {
+        "id": 33,
+        "name": "Bengkulu"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Indonesian",
+        "image": "indonesian.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "OVO",
+        "image": "ovo.png",
+        "download": "https://www.ovo.id/"
+      },
+      {
+        "id": 2,
+        "name": "GoPay (part of Gojek)",
+        "image": "gopay.png",
+        "download": "https://www.gojek.com/"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "country_name": "Brazil",
+    "image":"Brazil.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Marília, São Paulo"
+      },
+      {
+        "id": 2,
+        "name": "Viamão, Rio Grande do Sul"
+      },
+      {
+        "id": 3,
+        "name": "São Carlos, São Paulo"
+      },
+      {
+        "id": 4,
+        "name": "Jundiaí, São Paulo"
+      },
+      {
+        "id": 5,
+        "name": "Caruaru, Pernambuco"
+      },
+      {
+        "id": 6,
+        "name": "Blumenau, Santa Catarina"
+      },
+      {
+        "id": 7,
+        "name": "Montes Claros, Minas Gerais"
+      },
+      {
+        "id": 8,
+        "name": "Cariacica, Espírito Santo"
+      },
+      {
+        "id": 9,
+        "name": "Uberlândia, Minas Gerais"
+      },
+      {
+        "id": 10,
+        "name": "Santarém, Pará"
+      },
+      {
+        "id": 11,
+        "name": "Guarujá, São Paulo"
+      },
+      {
+        "id": 12,
+        "name": "Ribeirão das Neves, Minas Gerais"
+      },
+      {
+        "id": 13,
+        "name": "Governador Valadares, Minas Gerais"
+      },
+      {
+        "id": 14,
+        "name": "Uberaba, Minas Gerais"
+      },
+      {
+        "id": 15,
+        "name": "Mossoró, Rio Grande do Norte"
+      },
+      {
+        "id": 16,
+        "name": "Olinda, Pernambuco"
+      },
+      {
+        "id": 17,
+        "name": "Suzano, São Paulo"
+      },
+      {
+        "id": 18,
+        "name": "Novo Hamburgo, Rio Grande do Sul"
+      },
+      {
+        "id": 19,
+        "name": "Caucaia, Ceará"
+      },
+      {
+        "id": 20,
+        "name": "São José do Rio Preto, São Paulo"
+      },
+      {
+        "id": 21,
+        "name": "Praia Grande, São Paulo"
+      },
+      {
+        "id": 22,
+        "name": "Franco da Rocha, São Paulo"
+      },
+      {
+        "id": 23,
+        "name": "Petrolina, Pernambuco"
+      },
+      {
+        "id": 24,
+        "name": "Linhares, Espírito Santo"
+      },
+      {
+        "id": 25,
+        "name": "Macapá, Amapá"
+      },
+      {
+        "id": 26,
+        "name": "Itapevi, São Paulo"
+      },
+      {
+        "id": 27,
+        "name": "Vitória da Conquista, Bahia"
+      },
+      {
+        "id": 28,
+        "name": "Bauru, São Paulo"
+      },
+      {
+        "id": 29,
+        "name": "Carapicuíba, São Paulo"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Portuguese",
+        "image": "portuguese.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "PicPay",
+        "image": "picpay.jpg",
+        "download": "https://www.picpay.com/"
+      },
+      {
+        "id": 2,
+        "name": "MercadoPago",
+        "image": "mercadopago.png",
+        "download": "https://www.mercadopago.com.br/"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "country_name": "Panama",
+    "image":"Panama.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Panama City"
+      },
+      {
+        "id": 2,
+        "name": "San Miguelito"
+      },
+      {
+        "id": 3,
+        "name": "Juan Díaz"
+      },
+      {
+        "id": 4,
+        "name": "David"
+      },
+      {
+        "id": 5,
+        "name": "Arraiján"
+      },
+      {
+        "id": 6,
+        "name": "Colón"
+      },
+      {
+        "id": 7,
+        "name": "Las Cumbres"
+      },
+      {
+        "id": 8,
+        "name": "La Chorrera"
+      },
+      {
+        "id": 9,
+        "name": "Pacora"
+      },
+      {
+        "id": 10,
+        "name": "Santiago de Veraguas"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Spanish",
+        "image": "es.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Nequi Panamá",
+        "image": "nequi_panama.jpg",
+        "download": "https://nequi.com.pa/"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "country_name": "Malawi",
+    "image":"Malawi.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Lilongwe"
+      },
+      {
+        "id": 2,
+        "name": "Blantyre"
+      },
+      {
+        "id": 3,
+        "name": "Mzuzu"
+      },
+      {
+        "id": 4,
+        "name": "Zomba"
+      },
+      {
+        "id": 5,
+        "name": "Kasungu"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Chichewa",
+        "image": "chichewa.png"
+      },
+      {
+        "id": 2,
+        "name": "English",
+        "image": "en.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Airtel Money",
+        "image": "airtel_money.png",
+        "download": "https://www.airtel.mw/"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "country_name": "Macedonia",
+    "image":"Macedonia.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Skopje"
+      },
+      {
+        "id": 2,
+        "name": "Bitola"
+      },
+      {
+        "id": 3,
+        "name": "Kumanovo"
+      },
+      {
+        "id": 4,
+        "name": "Prilep"
+      },
+      {
+        "id": 5,
+        "name": "Tetovo"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Macedonian",
+        "image": "macedonian.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "NLB Klik",
+        "image": "nlb_klik.png",
+        "download": "https://www.nlb.mk/"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "country_name": "Lithuania",
+    "image":"Lithuania.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Riga (capital)"
+      },
+      {
+        "id": 2,
+        "name": "Daugavpils"
+      },
+      {
+        "id": 3,
+        "name": "Liepāja"
+      },
+      {
+        "id": 4,
+        "name": "Jelgava"
+      },
+      {
+        "id": 5,
+        "name": "Jūrmala"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Lithuanian",
+        "image": "lithuanian.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Revolut",
+        "image": "revolut.png",
+        "download": "https://www.revolut.com/"
+      },
+      {
+        "id": 2,
+        "name": "Paysera",
+        "image": "paysera.png",
+        "download": "https://www.paysera.lt/"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "country_name": "Latvia",
+    "image":"Latvia.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Riga (capital)"
+      },
+      {
+        "id": 2,
+        "name": "Daugavpils"
+      },
+      {
+        "id": 3,
+        "name": "Liepāja"
+      },
+      {
+        "id": 4,
+        "name": "Jelgava"
+      },
+      {
+        "id": 5,
+        "name": "Jūrmala"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Latvian",
+        "image": "latvian.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Swedbank",
+        "image": "swedbank.jpg",
+        "download": "https://www.swedbank.lv/"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "country_name": "Ireland",
+    "image":"Ireland.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Dublin"
+      },
+      {
+        "id": 2,
+        "name": "Cork"
+      },
+      {
+        "id": 3,
+        "name": "Limerick"
+      },
+      {
+        "id": 4,
+        "name": "Galway"
+      },
+      {
+        "id": 5,
+        "name": "Waterford"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "English",
+        "image": "en.png"
+      },
+      {
+        "id": 2,
+        "name": "Irish",
+        "image": "irish.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Revolut",
+        "image": "revolut.png",
+        "download": "https://www.revolut.com/"
+      },
+      {
+        "id": 2,
+        "name": "AIB",
+        "image": "aib.png",
+        "download": "https://aib.ie/"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "country_name": "Honduras",
+    "image":"Honduras.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Tegucigalpa"
+      },
+      {
+        "id": 2,
+        "name": "San Pedro Sula"
+      },
+      {
+        "id": 3,
+        "name": "Choloma"
+      },
+      {
+        "id": 4,
+        "name": "La Ceiba"
+      },
+      {
+        "id": 5,
+        "name": "El Progreso"
+      },
+      {
+        "id": 6,
+        "name": "Choluteca"
+      },
+      {
+        "id": 7,
+        "name": "Comayagua"
+      },
+      {
+        "id": 8,
+        "name": "Puerto Cortés"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Spanish",
+        "image": "es.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Tigo Money Honduras",
+        "image": "tigo_money_honduras.png",
+        "download": "https://www.tigo.com.hn/"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "country_name": "Guatemala",
+    "image":"Guatemala.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Guatemala City"
+      },
+      {
+        "id": 2,
+        "name": "Mixco"
+      },
+      {
+        "id": 3,
+        "name": "Villa Nueva"
+      },
+      {
+        "id": 4,
+        "name": "Petapa"
+      },
+      {
+        "id": 5,
+        "name": "San Juan Sacatepéquez"
+      },
+      {
+        "id": 6,
+        "name": "Quetzaltenango"
+      },
+      {
+        "id": 7,
+        "name": "Villa Canales"
+      },
+      {
+        "id": 8,
+        "name": "Escuintla"
+      },
+      {
+        "id": 9,
+        "name": "Chinautla"
+      },
+      {
+        "id": 10,
+        "name": "Chimaltenango"
+      },
+      {
+        "id": 11,
+        "name": "Huehuetenango"
+      },
+      {
+        "id": 12,
+        "name": "Amatitlán"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Spanish",
+        "image": "es.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Tigo Money Guatemala",
+        "image": "tigo_money_honduras.png",
+        "download": "https://www.tigo.com.gt/"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "country_name": "Finland",
+    "image":"Finland.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Helsinki"
+      },
+      {
+        "id": 2,
+        "name": "Espoo"
+      },
+      {
+        "id": 3,
+        "name": "Tampere"
+      },
+      {
+        "id": 4,
+        "name": "Vantaa"
+      },
+      {
+        "id": 5,
+        "name": "Oulu"
+      },
+      {
+        "id": 6,
+        "name": "Turku"
+      },
+      {
+        "id": 7,
+        "name": "Jyväskylä"
+      },
+      {
+        "id": 8,
+        "name": "Lahti"
+      },
+      {
+        "id": 9,
+        "name": "Kuopio"
+      },
+      {
+        "id": 10,
+        "name": "Kouvola"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Finnish",
+        "image": "finnish.png"
+      },
+      {
+        "id": 2,
+        "name": "Swedish",
+        "image": "swedish.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "MobilePay",
+        "image": "mobilepay.png",
+        "download": "https://mobilepay.fi/"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "country_name": "Costa Rica",
+    "image":"Costa_Rica.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "San José"
+      },
+      {
+        "id": 2,
+        "name": "Limón"
+      },
+      {
+        "id": 3,
+        "name": "Alajuela"
+      },
+      {
+        "id": 4,
+        "name": "Heredia"
+      },
+      {
+        "id": 5,
+        "name": "Cinco Esquinas"
+      },
+      {
+        "id": 6,
+        "name": "Desamparados"
+      },
+      {
+        "id": 7,
+        "name": "Liberia"
+      },
+      {
+        "id": 8,
+        "name": "Puntarenas"
+      },
+      {
+        "id": 9,
+        "name": "San Vicente"
+      },
+      {
+        "id": 10,
+        "name": "Barranca"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Spanish",
+        "image": "es.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "tPago",
+        "image": "tpago.png",
+        "download": "https://www.tgopago.com/"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "country_name": "Estonia",
+    "image":"Estonia.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Tallinn"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Estonian",
+        "image": "estonian.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "TransferWise",
+        "image": "transferwise.png",
+        "download": "https://wise.com/"
+      },
+      {
+        "id": 2,
+        "name": "Swedbank",
+        "image": "swedbank.jpg",
+        "download": "https://www.swedbank.ee/"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "country_name": "Colombia",
+    "image":"Colombia.png",
+    "cities":[
+      {
+        "id": 1,
+        "name": "Bogotá (Capital)"
+      },
+      {
+        "id": 2,
+        "name": "Medellín"
+      },
+      {
+        "id": 3,
+        "name": "Cali"
+      },
+      {
+        "id": 4,
+        "name": "Barranquilla"
+      },
+      {
+        "id": 5,
+        "name": "Cartagena"
+      },
+      {
+        "id": 6,
+        "name": "Cúcuta"
+      },
+      {
+        "id": 7,
+        "name": "Bucaramanga"
+      },
+      {
+        "id": 8,
+        "name": "Pereira"
+      },
+      {
+        "id": 9,
+        "name": "Santa Marta"
+      },
+      {
+        "id": 10,
+        "name": "Ibagué"
+      },
+      {
+        "id": 11,
+        "name": "Pasto"
+      },
+      {
+        "id": 12,
+        "name": "Manizales"
+      },
+      {
+        "id": 13,
+        "name": "Villavicencio"
+      },
+      {
+        "id": 14,
+        "name": "Neiva"
+      },
+      {
+        "id": 15,
+        "name": "Soledad"
+      },
+      {
+        "id": 16,
+        "name": "Valledupar"
+      },
+      {
+        "id": 17,
+        "name": "Armenia"
+      },
+      {
+        "id": 18,
+        "name": "Montería"
+      },
+      {
+        "id": 19,
+        "name": "Sincelejo"
+      },
+      {
+        "id": 20,
+        "name": "Popayán"
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "Spanish",
+        "image": "es.png"
+      },
+      {
+        "id": 2,
+        "name": "English",
+        "image": "en.png"
+      }
+    ],
+    "vairipays": [
+      {
+        "id": 1,
+        "name": "Nequi",
+        "image": "nequi.png",
+        "download": "https://www.nequi.com.co/"
+      },
+      {
+        "id": 2,
+        "name": "DaviPlata",
+        "image": "daviplata.png",
+        "download": "https://www.davivienda.com/"
+      }
+    ]
+  }
+
+]
